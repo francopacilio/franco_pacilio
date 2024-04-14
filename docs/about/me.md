@@ -1,7 +1,17 @@
 # Sobre mi
 
-![](../images/perezoso.jpg)
+![](../images/foto sobre mí.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Me llamo Franco Pacilio, soy Diseñador Industrial y tengo 26 años. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit **[my website](https://community.emergentfutures.io/courses/5566525/content)**
+Hace ya más de 5 años que me enfoco en las tecnologías emergentes como la Fabricación Digital, el Diseño 3D y la gestión de Infraestructura Informática. 
+
+Actualmente tengo dos principales ramificaciones; por un lado un puesto fijo en una empresa de tecnología, cómo IT Infrastructure Analyst en la que he tenido la posibilidad de crecer a lo largo de 4 años. 
+
+Por otro lado, un emprendimiento de diseño y producción de repuestos plásticos mediante herramientas de fabricación digital para diversificado en sectores tales como automotriz, mecánico, agrícola, industrial y otros, llamado FyF Impresiones 3D. En este implemento tecnologías de impresión 3D FDM y SLA. También herramientas de corte láser y scanneo 3D para diseñar y fabricar repuestos que suplan vacíos en nuestro acotado mercado industrial.
+
+Pueden ver más información sobre mí en:
+https://www.linkedin.com/in/franco-pacilio/
+
+Pueden ver algunos de mis trabajos en:
+https://www.instagram.com/fyf_3d/
