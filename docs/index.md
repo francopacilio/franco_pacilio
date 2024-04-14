@@ -1,5 +1,10 @@
-## Welcome
+## ¡Bienvenidos a mi página!
 
-![](../images/perezoso.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+¡Hola mundo! Sean bienvenidos a mi página creada en el marco del posgrado "Especialización en Fabricación Digital e Innovación" dado por la UTEC - Uruguay en conjunto con Fab Lab Barcelona.
+
+Esta página fue creada mediante un fork de https://fablabbcn.github.io/efdi-template/ utilizando el conjunto de herramientas Git Bash, GitHub y Visual Studio Code.
+
+A lo largo de este año 2024 estaré activamente actualizando este sitio con todal a información relativa a mi pasaje en este posgrado.
+
+¡Muchas gracias!
