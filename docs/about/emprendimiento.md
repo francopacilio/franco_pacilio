@@ -1,6 +1,6 @@
 ![](../images/bannerFyF.png)
 
-<p style="color: green;">FyF Impresiones 3D</p>
+# <p style="color: green;">FyF Impresiones 3D</p>
 
 Somos un emprendimiento uruguayo con más de 2 años de experiencia y más de 400 proyectos completados. Nos especializamos en la impresión 3D y la fabricación de repuestos plásticos para una amplia gama de sectores, incluyendo automotriz, agrícola, industrial y más. 
 
