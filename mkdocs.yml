@@ -29,13 +29,15 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://www.instagram.com/fyf_3d/
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
-      link: "https://www.linkedin.com/in/"
+      link: "https://www.linkedin.com/in/franco-pacilio/"
     - icon: fontawesome/brands/github
-      link: "https://github.com/"
+      link: "https://github.com/francopacilio/"
+    - icon: fontawesome/brands/facebook
+      link: "https://www.facebook.com/FyF.3D"
 
 theme:
   name: material
