@@ -10,8 +10,6 @@ Actualmente tengo dos principales ramificaciones; por un lado un puesto fijo en 
 
 Por otro lado, un emprendimiento de diseño y producción de repuestos plásticos mediante herramientas de fabricación digital diversificado en sectores tales como automotriz, mecánico, agrícola, industrial y otros, llamado FyF Impresiones 3D. En este implemento tecnologías de impresión 3D FDM y SLA. También herramientas de corte láser y scanneo 3D para diseñar y fabricar repuestos que suplan vacíos en nuestro acotado mercado industrial.
 
-Pueden ver más información sobre mí en:
-https://www.linkedin.com/in/franco-pacilio/
+Pueden ver más información sobre mí o mis trabajos siguiendo los links a las redes sociales en el footer de la página.
 
-Pueden ver algunos de mis trabajos en:
-https://www.instagram.com/fyf_3d/
+¡Muchas gracias!
