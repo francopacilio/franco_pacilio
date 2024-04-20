@@ -501,20 +501,43 @@ git config &ndash;global user-email “<a href="&#109;&#97;&#105;&#108;&#116;&#1
 
 <p>Posteriormente podemos copiarla al portapapeles con el comando: </p>
 <p>clip &lt; ~/.ssh/id_rsa.pub</p>
-<p>Una vez hecho esto, podemos copiar la SSH Key a un bloc de notas porque la utilizaremos más adelante. Ahora debemos pasar a la próxima herramienta.</p>
+<p>Una vez hecho esto, podemos guardar la SSH Key a un bloc de notas porque la utilizaremos más adelante. Ahora debemos pasar a la próxima herramienta.</p>
 <p style="font-size: 24px; color: purple;" >GitHub</p>
 
 <p>Primero lo primero, debemos acceder a la página de <a href="https://github.com/">GitHub</a></p>
-<p>Una vez aquí, es necesario crearnos una cuenta, la cual en mi caso me aseguré de utilizar el mismo correo electrónico que utilizamos anteriormente en <span style="color: red">GitBash</span></p>
+<p>Una vez aquí, es necesario crearnos una cuenta, la cual en mi caso me aseguré de utilizar el mismo correo electrónico que utilizamos anteriormente en <span style="color: red">GitBash</span>.</p>
 <p>Luego de crearnos la cuenta, debemos acceder a la misma y generar un fork del template brindado por el equipo docente del posgrado siguiendo los próximos pasos:</p>
-<p>Ingresar a <a href="https://github.com/fablabbcn/efdi-template">Repositorio GitHub Especialización</a><br>
+<p>Ingresar a: <a href="https://github.com/fablabbcn/efdi-template">Repositorio GitHub Especialización</a><br>
 Click en el dropdown menu de Fork<br>
 Click en &ldquo;+ Create a new fork&rdquo;</p>
 <p><img alt="" src="../../images/MT01/Paso03.png" />
-En este caso yo ya poseo un Fork de esta página, por eso aparece mi perfil en el DropDown</p>
+En este caso yo ya poseo un Fork de esta página, por eso aparece mi perfil en el DropDown.</p>
 <p>Seremos redireccionados a otra página en la que debemos asegurarnos que en Owner figure el perfil de GitHub que estaremos utilizando a lo largo del posgrado y en Repository name ingresamos nuestro nombre y apellido de la siguiente manera &ldquo;nombre-apellido&rdquo;. Agregamos una Description que nos ayude a identificar el Repository que estaremos creando para nosotros, seleccionamos Copy the main branch only y hacemos click en &ldquo;Create Fork&rdquo;.</p>
 <p><img alt="" src="../../images/MT01/Paso04.png" /></p>
-<p style="color: orange;" >¡Felicitaciones! Ya tenemos nuestro primero Repository de GitHub.</p>
+<p style="color: orange;" >¡Felicitaciones! Ya tenemos nuestro primer Repository de GitHub.</p>
+
+<p>Ahora el próximo paso consiste en que generemos una carpeta local en nuestro ordenador para importar el Repository de <span style="color: purple">GitHub</span> y poder editarlo localmente mediante un editor de texto HTML de nuestra preferencia.</p>
+<p>Yo personalmente elegí una carpeta en mi escritorio y la nombré &ldquo;RepositorioLocalGithub&rdquo;.</p>
+<p>A continuación debemos volver a abrir la consola <span style="color: red">GitBash</span> y navegar hasta encontrar y ubicarnos en la carpeta que queremos importar la imágen del Repository.</p>
+<p>En la parte superior de la consola, luego de &ldquo;MINGW64:&rdquo; nos muestra en qué lugar se encuentra actualmente ubicada en nuestro ordenador, en mi caso es en &ldquo;C/Users/franc&rdquo; y quiero llegar hasta &ldquo;C:\Users\franc\OneDrive\Escritorio\RepositorioLocalGithub&rdquo; (Ruta que extraemos de la barra de navegación de la carpeta que creamos)</p>
+<p>Para hacer esto, debemos utilizar el comando &ldquo;cd&rdquo; que genera una acción similar a dar doble click en una carpeta, por lo que debemos especificarle mediante un nombre a cual carpeta queremos ingresar, en mi caso fue:  </p>
+<p>cd Onedrive<br>
+cd Escritorio<br>
+cd RepositorioLocalGithub<br>
+cd franco_pacilio<br></p>
+<p><img alt="" src="../../images/MT01/Paso05.png" /></p>
+<p>Antes de ejecutar un próximo comando, debemos obtener una SSH Key del Repository que &ldquo;forkeamos&rdquo; en <span style="color: purple">GitHub</span> para poder realizar un Clone de ese Repository en la carpeta que navegamos a través de los comandos cd en <span style="color: red">GitBash</span>.</p>
+<p>Esto lo obtenemos dirigiendonos al Fork que obtuvimos anteriormente y navegando a:</p>
+<p>Click en dropdown menu de Code<br>
+Click en Local tab<br>
+Click en SSH<br>
+Click en ícono de copiar a portapapeles<br></p>
+<p><img alt="" src="../../images/MT01/Paso06.png" /></p>
+<p>¡Ya casi llegamos ahí! Ahora debemos volver a dónde nos quedamos en <span style="color: red">GitBash</span> y utilizar la línea de comando:</p>
+<p>git clone &ldquo;SSH Key que obtuvimos en el paso anterior&rdquo;</p>
+<p>Al darle Enter, <span style="color: red">GitBash</span> se conectará con <span style="color: purple">GitHub</span> y generará un Clone en nuestro ordenador del Repository que obtuvimos mediante un Fork. <em>¡Qué linda terminología!</em></p>
+<p><img alt="" src="../../images/MT01/Paso05.png" /></p>
+<p style="color: orange;" >¡Felicitaciones! Ahora tenemos nuestra carpeta local conectada y lista para que podamos editar los archivos y actualizarlos en nuestro Repository web mediante simples comandos.</p>
                 
                   
                     
