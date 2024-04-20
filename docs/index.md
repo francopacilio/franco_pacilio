@@ -1,6 +1,17 @@
 ## ¡Bienvenidos a mi página!
 
-¡Hola mundo! 
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Texto Arcoíris</title>
+    <style>
+        .rainbow {
+            background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+            color: transparent;
+            background-clip: text;
+        }
+    </style>
+
+<h1 class="rainbow">¡Hola mundo!</h1>
 
 Sean bienvenidos a mi página creada en el marco del posgrado "Especialización en Fabricación Digital e Innovación" dado por la UTEC - Uruguay en conjunto con Fab Lab Barcelona.
 
@@ -9,3 +20,4 @@ Esta página fue creada mediante un fork de https://fablabbcn.github.io/efdi-tem
 A lo largo de este año 2024 estaré activamente actualizando este sitio con toda la información relativa a mi pasaje en este posgrado.
 
 ¡Muchas gracias!
+
