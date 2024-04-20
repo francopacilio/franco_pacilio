@@ -2,7 +2,7 @@
 
 <p style="font-size: 24px; color: green;" >FyF Impresiones 3D</p>
 
-Emprendimiento uruguayo con más de 2 años de experiencia 400 trabajos realizados. Nos enfocamos en el diseño y producción de repuestos plásticos mediante herramientas de fabricación digital para diversos sectores tales como el automotriz, agrícola, industrial, mecánico y otros.
+Emprendimiento uruguayo con más de 2 años de experiencia y 400 trabajos realizados. Nos enfocamos en el diseño y producción de repuestos plásticos mediante herramientas de fabricación digital para diversos sectores tales como el automotriz, agrícola, industrial, mecánico y otros.
 
 Utilizamos materiales plásticos con características resistentes y biodegradables para satisfacer las necesidades comerciales de empresas e individuos.
 
