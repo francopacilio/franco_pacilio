@@ -11,7 +11,7 @@
         }
     </style>
 
-<p style="font-size: 20px" ; class="rainbow">¡Hola mundo!</p>
+<p style="font-size: 22px" ; class="rainbow">¡Hola mundo!</p>
 
 Sean bienvenidos a mi página creada en el marco del posgrado "Especialización en Fabricación Digital e Innovación" dado por la UTEC - Uruguay en conjunto con Fab Lab Barcelona.
 
