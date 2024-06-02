@@ -476,29 +476,29 @@
                 
                 <h1 id="mt03">MT03<a class="headerlink" href="#mt03" title="Permanent link">&para;</a></h1>
 <p>La consigna del MT03 consiste en que cada alumno diseño un objeto que pueda ser fábricado en una máquina de corte láser CNC. Este objeto debe cumplir con determinados requisitos que ponen a prueba diferentes herramientas y aprendizajes dados a lo largo de esté último Módulo Técnico 03.</p>
-<p>Requisitos:</p>
+<p><span style="color: gray">Requisitos:</span></p>
 <ul>
 <li>El objeto debe estar compuesto de 3 a 5 piezas</li>
 <li>Debe ser parametrizable en algún sentido</li>
 <li>Las piezas se deben poder ensamblar mediante encastres (sin la necesidad de adhesivos o herrajes)</li>
 <li>El objeto debe contener las 3 operaciones básicas de la máquina láser (grabado raster, marcado sobre vector y corte sobre vector)</li>
 </ul>
-<p>Material a utilizar:</p>
+<p><span style="color: gray">Material a utilizar:</span></p>
 <ul>
 <li>Cartón o MDF de 3mm de espesor</li>
 </ul>
-<p>Fabricación:</p>
+<p><span style="color: gray">Fabricación:</span></p>
 <ul>
 <li>Todas las piezas deben estar diseñadas y contenidas en un mismo archivo formato .DXF</li>
 <li>Cada estudiante posee una placa de 600x450mm para su libre uso</li>
 </ul>
 
-<p>Proceso de diseño:</p>
+<p><span style="font-size: 20px ; color: dodgerblue">Proceso de diseño:</span></p>
 <p>Para mi proyecto, elegí diseñar y fábricar un objeto decorativo. Que parta de una imágen del perfil de un animal y a mediante la repetición de planos y perspectiva obtener una representación tridimensional del mismo.</p>
 <p>En este caso, estaré trabajando con la figura animal del gato.</p>
 <p><img alt="" src="../../images/MT03/gatoperfil.jpg" /></p>
 <p>A continuación, usaré el software Fusion 360 para diseñar la composición y asignar valores parametrizables a las expresiones que refieran al espesor del material. Obteniendo un diseño paramétrico que permite adaptar los encastres y forma del objeto a raíz del espesor del material que se quiera utilizar para su fabricación.</p>
-<p>Cuerpo principal:</p>
+<p><span style="font-size: 20px ; color: red">Cuerpo principal:</span></p>
 <p>Luego de importar la imágen como &ldquo;Canvas&rdquo;, generamos un &ldquo;Sketch&rdquo; y dibujamos el contorno del animal.</p>
 <p><img alt="" src="../../images/MT03/Sketch2Dgato.png" /></p>
 <p>Las principales consideraciones fueron:</p>
@@ -511,7 +511,7 @@
 <p><img alt="" src="../../images/MT03/valoresparametricos.png" /></p>
 <p>Con esto en mente, extruimos los 3 planos principales del cuerpo utilizando el parámetro que asignamos, para luego desfasarlo y generar el cuerpo del objeto.</p>
 <p><img alt="" src="../../images/MT03/extudeyresultado.png" /></p>
-<p>Columna vertebral:</p>
+<p><span style="font-size: 20px ; color: green">Columna vertebral:</span></p>
 <p>Ahora que tenemos los 3 planos principales del cuerpo, debemos generar un mínimo de dos vértebras que mediante medios encastres sujetarán el cuerpo y le darán estructura al objeto. Nos aseguramos de utilizar la herraimenta de &ldquo;Project&rdquo; y &ldquo;Link to body&rdquo; para que exista un vínculo entre el plano y el cuerpo, de manera que si cambiamos los parámetros del espesor de los planos, también se actualice el &ldquo;Sketch&rdquo; correspondente.</p>
 <p><img alt="" src="../../images/MT03/Columnavertebral.png" /></p>
 <p>A partir de esa vértebra, la duplicamos y disponemos acorde a la forma del objeto, tratando de obtener un resultado homogéneo en ambas secciones.</p>
@@ -526,9 +526,9 @@
 <p><img alt="" src="../../images/MT03/gato4espesores.png" /></p>
 <p>Incluimos una base para optimizar la estabilidad del producto y también agregarle un rótulo con grabado y marcado.</p>
 <p><img alt="" src="../../images/MT03/basegrabadoymarcado.png" /></p>
-<p>Resultado producto final:</p>
+<p><span style="font-size: 20px ; color: blue">Resultado producto final:</span></p>
 <p><img alt="" src="../../images/MT03/composicionrenders.png" /></p>
-<p>Generación DXF:</p>
+<p><span style="font-size: 20px ; color: purple">Generación DXF:</span></p>
 <p>En mi caso personal, la forma que encuentro más cómoda de exportar los archivos 3D de fusion 360 a un DXF, es generando un sketch arriba de la pieza, proyectando el plano y exportando el sketch como DXF. </p>
 <p><img alt="" src="../../images/MT03/lasercutcatplanes.png" /></p>
 <p>Una vez hecho esto, abro los DXF en Illustrator para corroborar que todos los trazos estén unidos y sean continuos. Por lo general algunos trazos no quedan perfectamente unidos entonces hay que asegurarnos de usar la herramienta Join en todos los items.</p>
@@ -537,14 +537,14 @@
 <p>Por fines exploratorios, me tomé un par de minutos para tratar de generar una disposición propia y compararla con la generada por la página, podemos verla a continuación:</p>
 <p><img alt="" src="../../images/MT03/iteracion%20propia%20iteracion%20ai.png" /></p>
 <p>Podemos notar que la realizada por la página tiene una optimización del espacio un poco mayor, por lo que nos apegamos a esa.</p>
-<p><span style="font-size: 20px">Generación archivo de corte RDWorks:</span></p>
+<p><span style="font-size: 20px ; color: mediumseagreen">Generación archivo de corte RDWorks:</span></p>
 <p>Empezamos por importar el archivo .DXF que generamos anteriormente en Illustrator a RDworks</p>
 <p><img alt="" src="../../images/MT03/disposicionenrdworks.png" /></p>
 <p>Luego siguiendo el video tutorial brindado por el cuerpo docente <a href="https://www.youtube.com/watch?v=UwjH-HMmGuY&amp;t=35s">MT03 - RDWorks V8</a>, ajustamos los parámetros del archivo para que se corresponda con los utilizados para la máquina de corte láser de UTEC.</p>
 <p>Asignamos colores, tipo de función, potencia y velocidad de corte correspondientemente al resultado deseado y obtenemos el resultado final:</p>
 <p><img alt="" src="../../images/MT03/capturardworks.png" /></p>
 <p><a href="https://drive.google.com/file/d/1jG8JYd71SrZ12EiY_zZvsviHv8tTaDqO/view?usp=sharing">Link de descarga de entrega MT03</a></p>
-<p><span style="font-size: 20px">Conclusiones y reflexiones:</span></p>
+<p><span style="font-size: 20px ; color: dodgerblue">Conclusiones y reflexiones:</span></p>
 <p>Desde mi punto de vista personal, la actividad MT03 me resultó muy positiva ya que pude aprender mediante la práctica las herramientas de parametrización de fusion 360 y lo que conlleva generar un diseño parámetrico, en estos casos el diseñador debe prestar especial atención a en qué momentos asignar un valor paramétrico y qué consideraciones tener en el diseño para que al modificar estos valores no se &ldquo;rompa&rdquo; el objeto. Ese fue el mayor desafío para mí ya que nunca había trabajado con estas herramientas anteriormente.</p>
 <p>Por otro lado, la sección de armado de DXF y disposición de las piezas me resultó positivo la puesta en práctica de nuevas herramientas como la página SVGnest que no la había utilizado previamente y me resulta una herramienta positiva para optimizar tanto tiempos a la hora de generar la composición, como recursos a la hora de hacer el corte gracias al ahorro de material logrado.</p>
 <p>Por último, el apartado de generar el archivo de corte en RDWorks, asignar distintos colores a los distintos vectores del diseño, para luego configurar los valores en base a la función que se quiera realizar, es igual de importante que todo lo anterior. Así podemos realmente tener un pantallazo del mundo real cuándo se trata de generar un gcode que será utilizado con éxito por una máquina de corte láser. Y no es solamente enviar un PDF a una casa de cortes.</p>
