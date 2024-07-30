@@ -2,62 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/about/emprendimiento/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/about/me/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://francopacilio.github.io/franco_pacilio/actitudemprendedora/ae01/</loc>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/diseno/md01/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/diseno/md02/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/innovacion/mi01/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/proyecto/proyecto/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/tecnicos/mt01/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/tecnicos/mt02/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/tecnicos/mt03/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/tecnicos/mt04/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://francopacilio.github.io/franco_pacilio/tecnicos/mt05/</loc>
-         <lastmod>2024-07-20</lastmod>
+         <lastmod>2024-07-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
