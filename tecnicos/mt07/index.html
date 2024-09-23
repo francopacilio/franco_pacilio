@@ -601,23 +601,33 @@
 <p>Para este módulo, trabajaremos con un microcontrolador electrónico ESP32 el cual mediante el broker MQTT &ldquo;HiveMQ&rdquo; y la plataforma web &ldquo;Wokwi&rdquo;, configuraremos un código que permita enviar una señal a nuestro circuito desde la web.</p>
 <p><span style="font-size: 20px ; color: dodgerblue">Pre-configuración</span></p>
 <p>Para realizar este ejercicio, debemos asegurarnos de instalar correctamente las librerías y configuraciones necesarias para poder hacer el upload del código desde el software Arduino IDE hacia nuestro microcontrolador, utilizando una conexión USB a Micro USB.</p>
-<p>Ingresamos el link de librería ESP32 a las preferencias de Arduino IDE:
+<p>Ingresamos el link de librería ESP32 a las preferencias de Arduino IDE:<br>
 <img alt="" src="../../images/MT07/02.PNG" />
 <a href="https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json">https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json</a></p>
-<p>Nos aseguramos de que esté actualizado a su última versión:
+<p>Nos aseguramos de que esté actualizado a su última versión:<br>
 <img alt="" src="../../images/MT07/03.PNG" /></p>
-<p>Instalamos la librería PubSubClient by Nick:
+<p>Instalamos la librería PubSubClient by Nick:<br>
 <img alt="" src="../../images/MT07/05.PNG" /></p>
-<p>En cada uno de estos pasos, Arduino IDE va a instalar y compilar los datos en su almacenamiento local del ordenador:
+<p>En cada uno de estos pasos, Arduino IDE va a instalar y compilar los datos en su almacenamiento local del ordenador:<br>
 <img alt="" src="../../images/MT07/01.PNG" /></p>
-<p>Por último, seleccionamos el puerto COM correspondiente al puerto dónde el microcontrolador está conectado mediante Micro USB a USB en nuestro ordenador y seleccionamos a placa &ldquo;ESP32 Dev Module&rdquo;, para utilizar con nuestro modelo ESP-WROOM-32.
+<p>Por último, seleccionamos el puerto COM correspondiente al puerto dónde el microcontrolador está conectado mediante Micro USB a USB en nuestro ordenador y seleccionamos a placa &ldquo;ESP32 Dev Module&rdquo;, para utilizar con nuestro modelo ESP-WROOM-32.<br>
 <img alt="" src="../../images/MT07/01.PNG" /></p>
-<p>Microcontrolador utilizado:
+<p>Microcontrolador utilizado:<br>
 <img alt="" src="../../images/MT07/02JPG.jpg" /></p>
 <p><span style="font-size: 20px ; color: purple">Circuito Electrónico</span></p>
-<p>Primero debemos configurar el circuito electrónico utilizando el microcontrolador ESP32, breadboard, cables, lámpara LED, resistencia y botón pulsador.</p>
-<p><img alt="" src="../../images/MT07/01.PNG" /></p>
-<p><a href="https://drive.google.com/drive/folders/1M-4lgbKi65JW0B3ep8HXU2XYjxSXF345?usp=sharing">Link de descarga de la entrega MT06</a></p>
+<p>Primero debemos configurar el circuito electrónico utilizando el microcontrolador ESP32, breadboard, cables, lámpara LED, resistencia y botón pulsador.<br>
+<img alt="" src="../../images/MT07/03JPG.jpg" /></p>
+<p>El circuito utilizado es el siguiente:<br>
+<img alt="" src="../../images/MT07/07.PNG" /></p>
+<p><span style="font-size: 20px ; color: dodgerblue">Código cargado al Microcontrolador</span></p>
+<p>Utilizamos como nombre de cliente &ldquo;Franco&rdquo;, luego como name_topic &ldquo;FrancoP&rdquo; lo cual nombra a nuestra placa y el send_topic como &ldquo;JosepWokwi&rdquo; el cual utilizaremos con nuestros compañeros de EFDI en Montevideo.<br>
+<img alt="" src="../../images/MT07/08.PNG" /></p>
+<p><a href="https://drive.google.com/file/d/1uTNCHmP4ZATRWRvQ2qZ94FSTwB6GkpvG/view?usp=sharing">Link de descarga a archivo de Arduino IDE para ver código entero cargado a microcontrolador</a></p>
+<p><span style="font-size: 20px ; color: dodgerblue">Código cargado a Wokwi</span></p>
+<p>Dentro de la plataforma Wokwi, nos aseguramos de colocar en &ldquo;send_topic&rdquo; el nombre de la placa a la que se quiere enviar información y el &ldquo;name_topic&rdquo; &ldquo;JosepWokwi&rdquo; para correspondernos con lo establecido en Arduino IDE. Los criterios se invierten.</p>
+<p><img alt="" src="../../images/MT07/09.PNG" /></p>
+<p><span style="font-size: 20px ; color: dodgerblue">Prueba del funcionamiento</span></p>
+<p><a href="https://wokwi.com/projects/409765401227302913">Link a servidor Wokwi dónde podemos comunicarnos a mi placa</a></p>
 <p><span style="font-size: 20px ; color: orange">Conclusiones y reflexiones</span></p>
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
@@ -639,7 +649,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 22, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">September 23, 2024</span>
     
   </small>
 </div>
