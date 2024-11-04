@@ -68,7 +68,6 @@ El tiempo de sublimación estimado depende de varias variables, como la cantidad
 Por último, se retira el conjunto completo de la máquina de sublimación y se coloca en un lugar adecuado para que se enfríe a temperatura ambiente. Una vez que el material ha alcanzado una temperatura segura, se utiliza una trincheta para repasar el borde del marco, facilitando así la extracción de la plancha del interior. Este cuidado en el desmoldeo es fundamental para evitar daños en el producto final y asegurar que se conserve la forma y calidad deseadas.
 
 <p style="font-size: 20px; color: mediumseagreen;">Resultado proceso</p>
-<p style="font-size: 20px; color: mediumseagreen;">Resultado proceso</p>
 
 Este proceso culmina en la obtención de una plancha de 338x219x15 mm de PLA (ácido poliláctico) reciclado, caracterizada por un patrón estético estilo "tie-dye". Este acabado no solo añade un elemento visual interesante al material, sino que también destaca el proceso de reciclaje, convirtiendo desechos en productos con un diseño único y sostenible.
 
