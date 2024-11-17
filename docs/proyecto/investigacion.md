@@ -75,6 +75,8 @@ Este proceso culmina en la obtención de una plancha de 338x219x15 mm de PLA (á
 
 ![](../images/PFI01R1/resultadofinalestetico.jpg)
 
+<p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
+
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Embed YouTube Video</title>
