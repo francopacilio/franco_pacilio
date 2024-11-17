@@ -75,6 +75,8 @@ Una vez encontrado este parámetro, pasé a realizar pruebas de encastres de mac
 
 ![](../images/PFI02/3.PNG)
 
+![](../images/PFI02/IMG-20241116-WA0027.jpg)
+
 Al realizar múltiples encastres consecutivos y no solamente uno, encontré nuevas dificultades que también alteran la tolerancia, que es la retracción del plástico lo cual desfasa un poco las distancias entre encastres y también las deformaciones en el material por no tener un proceso de fabricación industrial. Lo cual causó que se partan los encastres al tratas de ensamblarlo.
 
 ![](../images/PFI02/IMG-20241116-WA0024.jpg)
