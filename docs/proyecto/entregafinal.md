@@ -21,7 +21,9 @@ Desarrollar un sistema de reciclaje de desechos plásticos generados por la impr
 ### Objetivos Específicos
 
 ● Crear un proceso eficiente para clasificar, triturar, fundir y moldear desechos plásticos en un material reutilizable.</br>
+
 ● Desarrollar un sistema basado en Arduino para el monitoreo de las condiciones de fabricación (temperatura y humedad) de las placas recicladas.</br>
+
 ● Difundir la solución entre diseñadores, makers y emprendedores, promoviendo prácticas sostenibles y la economía circular.</br>
 
 ## Marco teórico
@@ -37,8 +39,11 @@ Existen varias iniciativas a nivel global que buscan integrar soluciones de reci
 El proyecto se dividió en varias etapas:
 
 ● Diseño Conceptual: A partir de la identificación de la problemática y de las oportunidades de mejora, se generaron propuestas de diseño utilizando herramientas CAD (Diseño Asistido por Computadora).</br>
+
 ● Desarrollo y Prototipado: Se desarrollaron prototipos funcionales, empleando tecnologías de fabricación digital como impresión 3D para las partes del dispositivo y corte CNC para los componentes metálicos.</br>
+
 ● Pruebas y Validación: El sistema fue probado con diferentes tipos de residuos plásticos, y se optimizó la funcionalidad del proceso mediante la incorporación de un sistema de monitoreo basado en Arduino para medir las condiciones de temperatura y humedad.</br>
+
 ● Iteración: Basado en la retroalimentación obtenida, se realizaron ajustes y mejoras tanto en el proceso de reciclaje como en el diseño del dispositivo.</br>
 
 ## Descripción del proyecto
@@ -48,6 +53,7 @@ El proyecto "EcoPlaca 3D" tiene como objetivo ofrecer una solución innovadora y
 ## Materiales y componentes
 
 ● Materiales: Residuos plásticos de impresión 3D (PLA, ABS, PETG), acero inoxidable y componentes plásticos impresos en 3D.</br>
+
 ● Componentes Electrónicos: Sensores de temperatura y humedad, Arduino, motores paso a paso, y controladores electrónicos</br>
 
 ## Partes y sistemas fabricados
@@ -75,16 +81,19 @@ En el transcurso del proyecto, algunas problemáticas fueron correctamente abord
 ### Preguntas Respondidas:
 
 ● ¿Es posible reciclar desechos plásticos de impresión 3D para producir materiales reutilizables de manera efectiva?</br>
+
 ● ¿Qué condiciones deben ser monitoreadas para garantizar la calidad del material reciclado?</br>
 
 ### Lo que Funcionó:
 
 ● El proceso de reciclaje generó placas funcionales de alta calidad.</br>
+
 ● El sistema de monitoreo basado en Arduino permitió optimizar las condiciones de producción.</br>
 
 ### Lo que No Funcionó:
 
 ● La variabilidad en la calidad de los desechos plásticos afectó la consistencia del material reciclado.</br>
+
 ● El sistema de fundición necesitó ajustes para mejorar la uniformidad del grosor de las placas.</br>
 
 ## Conclusiones
