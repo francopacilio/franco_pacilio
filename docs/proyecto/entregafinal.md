@@ -73,6 +73,23 @@ El proyecto "EcoPlaca 3D" tiene como objetivo ofrecer una solución innovadora y
 
 ● Termoformado y Moldeo: Los plásticos reciclados son fundidos y moldeados en una máquina sublimadora, produciendo placas que se estabilizan por enfriamiento.</br>
 
+## Propuesta de valor
+
+EcoPlaca 3D ofrece una solución innovadora y sostenible para transformar los desechos plásticos generados por la impresión 3D en placas funcionales reutilizables. Este proyecto promueve la economía circular mediante el reciclaje de plásticos, reduciendo el impacto ambiental y proporcionando un material útil para diseñadores, makers y emprendedores.
+
+Los valores clave de la propuesta incluyen:
+
+● Reciclaje funcional: Placas reutilizables de alta calidad a partir de desechos plásticos.
+
+● Diseño único: Acabado "tie-dye" que resalta el reciclaje.
+
+● Sostenibilidad: Contribución activa a la economía circular.
+
+● Accesibilidad: Solución práctica y económica, fácil de replicar.
+
+● Innovación responsable: Integración de tecnologías como el corte láser y termoformado.
+
+En conjunto, EcoPlaca 3D proporciona una respuesta práctica al desperdicio plástico y abre nuevas oportunidades en el diseño y fabricación sostenible.
 
 ## Resultados y discusión
 
