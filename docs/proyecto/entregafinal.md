@@ -1,9 +1,3 @@
----
-hide:
-    - toc
----
-
-
 ## <p style="font-size: 20px; color: dodgerblue;"> Objetivos </p>
 
 # Objetivos Generales
@@ -20,10 +14,6 @@ hide:
 
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embed YouTube Video</title>
-
-<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Texto Arcoíris</title>
     <style>
         .rainbow {
@@ -31,6 +21,4 @@ hide:
             color: transparent;
             background-clip: text;
         }
-    </style>    
-
-<html lang="en">
+    </style>  
