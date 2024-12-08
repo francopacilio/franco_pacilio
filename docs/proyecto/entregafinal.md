@@ -53,14 +53,20 @@ El proyecto "EcoPlaca 3D" tiene como objetivo ofrecer una solución innovadora y
 ## Partes y sistemas fabricados
 
 ● Sistema de Triturado: Componente para triturar los desechos plásticos en pequeños fragmentos.</br>
+
 ● Máquina de Fundición y Moldeo: Permite transformar los plásticos triturados en placas mediante calor y presión.</br>
+
 ● Sistema de Monitoreo: Utiliza Arduino y sensores para medir y controlar la temperatura y humedad durante el proceso.</br>
+
 
 ## Procesos utilizados
 
 ● Fabricación Aditiva (Impresión 3D): Para la creación de componentes del dispositivo, como estructuras y soportes.</br>
+
 ● Fabricación Sustractiva (Corte Láser y CNC): Para la creación de piezas metálicas y el corte de las placas recicladas.</br>
+
 ● Termoformado y Moldeo: Los plásticos reciclados son fundidos y moldeados en una máquina sublimadora, produciendo placas que se estabilizan por enfriamiento.</br>
+
 
 ## Resultados y discusión
 
@@ -87,10 +93,13 @@ El proyecto "EcoPlaca 3D" demostró que es posible reciclar desechos plásticos 
 
 ## Glosario
 
-● Economía Circular: Modelo de producción y consumo que promueve la reutilización, el reciclaje y la reducción de residuos.
-● Fabricación Aditiva: Proceso de creación de objetos mediante la adición de capas sucesivas de material.
-● Termoformado: Proceso de modelado de plásticos a través del calor para darles forma.
-● Precious Plastics: Iniciativa global de código abierto que promueve el reciclaje de plásticos a pequeña escala.
+● Economía Circular: Modelo de producción y consumo que promueve la reutilización, el reciclaje y la reducción de residuos.</br>
+
+● Fabricación Aditiva: Proceso de creación de objetos mediante la adición de capas sucesivas de material.</br>
+
+● Termoformado: Proceso de modelado de plásticos a través del calor para darles forma.</br>
+
+● Precious Plastics: Iniciativa global de código abierto que promueve el reciclaje de plásticos a pequeña escala.</br>
 
 ## Bibliografía
 
