@@ -101,6 +101,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+      toc: true
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
