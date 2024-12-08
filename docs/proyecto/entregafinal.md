@@ -1,14 +1,11 @@
-## <p style="font-size: 20px; color: dodgerblue;"> Objetivos </p>
+# Entrega Final
 
-# Objetivos Generales
-
-# Objetivos Específicos
-
-## Marco Teórico
-
-# Antecedentes mundiales
-
-# Antecedentes locales
+## Introducción
+Texto...
+## Desarrollo
+Texto...
+## Conclusiones
+Texto...
 
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
