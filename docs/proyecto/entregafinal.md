@@ -1,30 +1,34 @@
 # Entrega Final
 
-Desarrollo de un Sistema de Reciclaje de Plásticos para la Fabricación de Placas Funcionales en Impresión 3D: Proyecto "EcoPlaca 3D"
+Desarrollo de un modelo de reciclaje de plásticos provenientes de desechos de impresión 3D para fabricar placas funcionales: Proyecto "EcoPlaca 3D".
 
 ## Resumen
 
-El proyecto "EcoPlaca 3D" busca resolver el desafío ambiental generado por los desechos plásticos de la impresión 3D mediante su transformación en placas funcionales, utilizando tecnologías de fabricación digital y promoviendo la economía circular. Este trabajo presenta el proceso de diseño, desarrollo y fabricación del sistema que permite reciclar plásticos generados en la impresión 3D, transformándolos en un nuevo material reutilizable. Además, se abordan las metodologías empleadas, los materiales utilizados, los componentes del sistema y las preguntas que se respondieron a lo largo del proceso. El resultado final es una solución práctica, sostenible y accesible para diseñadores, makers y emprendedores.
+El proyecto "EcoPlaca 3D" aborda la problemática ambiental generada por los desechos plásticos provenientes de la impresión 3D, transformándolos en placas funcionales mediante el uso de tecnologías de fabricación digital y promoviendo la economía circular. En Uruguay, el crecimiento exponencial en el uso, la comercialización y la adopción de tecnologías de impresión 3D por parte de negocios locales, emprendedores y grandes empresas ha incrementado la generación de residuos plásticos, evidenciando la necesidad urgente de implementar soluciones sostenibles. Actualmente, no existen iniciativas en el país que ofrezcan una segunda vida a estos materiales, mucho menos orientadas a su conversión en placas funcionales.
+
+Este trabajo presenta el diseño, desarrollo y fabricación de un sistema que permite reciclar los residuos plásticos generados por la impresión 3D, transformándolos en un material práctico, funcional y con valor estético. Se describen las metodologías aplicadas, los materiales y componentes utilizados, así como las preguntas clave abordadas a lo largo del proceso. El resultado es una solución innovadora, sostenible y accesible, dirigida a diseñadores, makers y emprendedores, con un modelo adaptado a las necesidades y herramientas locales, pero con potencial de replicabilidad a nivel global.
 
 ## Introducción
 
-El reciclaje de plásticos derivados de la impresión 3D presenta un desafío considerable debido a la acumulación y la falta de un sistema eficaz para su reutilización. Este proyecto nace como respuesta a dicha problemática, con el objetivo de crear un sistema que transforme los desechos plásticos generados por la impresión 3D en un material funcional para ser reutilizado en nuevos procesos productivos. A través de este enfoque, se busca reducir el impacto ambiental de estos residuos y fomentar prácticas de economía circular dentro de la comunidad de diseñadores y emprendedores.
+El reciclaje de plásticos derivados de la impresión 3D representa un desafío significativo debido a la acumulación de residuos y la falta de un sistema eficaz para su reutilización. Este proyecto surge como respuesta a esta problemática, con el objetivo de crear un sistema replicable a nivel nacional que transforme los desechos plásticos generados por la impresión 3D en un material funcional, reutilizable en nuevos procesos productivos. Se busca, además, reducir el impacto ambiental de estos residuos y fomentar prácticas de economía circular en la comunidad de diseñadores y emprendedores, con un modelo que puede ser replicado en otros contextos del mundo.
 
 ## Objetivos
 
-Se destacan los siguientes puntos generales y específicos.
+Se destacan los siguientes puntos generales y específicos:
 
 ### Objetivos Generales
 
-Desarrollar un sistema de reciclaje de desechos plásticos generados por la impresión 3D, que permita su transformación en placas funcionales reutilizables.
+Desarrollar un modelo local de reciclaje de desechos plásticos generados por la impresión 3D para transformarlos en placas funcionales reutilizables.
 
 ### Objetivos Específicos
 
-● Crear un proceso eficiente para clasificar, triturar, fundir y moldear desechos plásticos en un material reutilizable.</br>
+● Crear un proceso eficiente para clasificar, triturar, fundir y moldear desechos plásticos en un material laminar reutilizable.</br>
 
-● Desarrollar un sistema basado en Arduino para el monitoreo de las condiciones de fabricación (temperatura y humedad) de las placas recicladas.</br>
+● Desarrollar un sistema basado en Arduino para el monitoreo y estandarización de las condiciones de fabricación (temperatura y humedad) de las placas recicladas.</br>
 
 ● Difundir la solución entre diseñadores, makers y emprendedores, promoviendo prácticas sostenibles y la economía circular.</br>
+
+● Proponer alternativas de uso para el material laminar reciclado en diversos procesos de diseño y fabricación.</br>
 
 ## Marco teórico
 
