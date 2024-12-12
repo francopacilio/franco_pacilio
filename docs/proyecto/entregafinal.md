@@ -42,12 +42,12 @@ A lo largo del tiempo, la problemática de los desechos plásticos ha impulsado 
 
 En el ámbito global, el proyecto Precious Plastics se destaca como una de las iniciativas más relevantes. Creado por Dave Hakkens, este movimiento ofrece herramientas y conocimientos para que comunidades de todo el mundo puedan reciclar plásticos a pequeña escala. Su enfoque abarca procesos de clasificación, trituración, fundición y moldeado, con diseños modulares que permiten la personalización y escalabilidad de los sistemas. 
 
-![](../images/PFI01R1/PRECIOUSPLASTICS.jpg)
+![](../images/PFI03/PRECIOUSPLASTICS.jpg)
 [Web Precious Plastics](https://www.preciousplastic.com/)
 
 Además, otras iniciativas han explorado la reutilización de plásticos en fabricación digital, como el reciclaje de filamento para impresión 3D. Ejemplos como el Filabot y proyectos relacionados con impresión 3D circular han demostrado cómo los plásticos pueden transformarse en nuevos insumos para esta tecnología.
 
-![](../images/PFI01R1/FILABOT.jpg)
+![](../images/PFI03/FILABOT.jpg)
 [Web Filabot](https://www.filabot.com/)
 
 ### Antecedentes locales
@@ -58,27 +58,15 @@ Sin embargo, se destacan algunas iniciativas que abordan la temática desde punt
 
 La Fábrica Makerspace es un emprendimiento que forma parte de la comunidad global de Precious Plastics y generaron el primer taller de experimentación y reciclaje de plástico en Uruguay, se dedican a tomar materiales plásticos deshechados (principalmente ABS) y utilizarlos como materia prima para generar nuevos productos.
 
-![](../images/PFI01R1/LAFABRICA.PNG)
+![](../images/PFI03/LAFABRICA.PNG)
 [Web La Fábrica Makersapce](https://lafabrica.uy/)
 
 Kenistech es un emprendimiento que fabrica y comercializa filamento para impresion 3D reciclado hecho 100% a partir de plásticos de tablets, computadoras en desuso del Plan Ceibal, componentes plásticos de máquinas y periféricos (principalmente ABS).
 
-![](../images/PFI01R1/KENISTECH.jpeg)
+![](../images/PFI03/KENISTECH.jpeg)
 [Web Kenistech](https://fkenistech.wixsite.com/kenistech)
 
 Si bien existen esfuerzos relacionados con el reciclaje de plásticos, estos no están adaptados para atender específicamente los residuos derivados de la impresión 3D. Por lo tanto, el país carece de un modelo que promueva la transformación de estos materiales en productos reutilizables, lo que presenta una oportunidad única para desarrollar soluciones innovadoras y sostenibles dentro del contexto nacional.
-
-## Metodología
-
-El proyecto se dividió en varias etapas:
-
-● Diseño Conceptual: A partir de la identificación de la problemática y de las oportunidades de mejora, se generaron propuestas de diseño utilizando herramientas CAD (Diseño Asistido por Computadora).</br>
-
-● Desarrollo y Prototipado: Se desarrollaron prototipos funcionales, empleando tecnologías de fabricación digital como impresión 3D para las partes del dispositivo y corte CNC para los componentes metálicos.</br>
-
-● Pruebas y Validación: El sistema fue probado con diferentes tipos de residuos plásticos, y se optimizó la funcionalidad del proceso mediante la incorporación de un sistema de monitoreo basado en Arduino para medir las condiciones de temperatura y humedad.</br>
-
-● Iteración: Basado en la retroalimentación obtenida, se realizaron ajustes y mejoras tanto en el proceso de reciclaje como en el diseño del dispositivo.</br>
 
 ## Descripción del proyecto
 
