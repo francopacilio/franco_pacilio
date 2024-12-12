@@ -26,7 +26,7 @@ Desarrollar un modelo local de reciclaje de desechos plásticos generados por la
 
 ● Desarrollar un sistema basado en Arduino para el monitoreo y estandarización de las condiciones de fabricación (temperatura y humedad) de las placas recicladas.</br>
 
-● Difundir la solución entre diseñadores, makers y emprendedores, promoviendo prácticas sostenibles y la economía circular.</br>
+● Generar una guía y difundir la solución entre diseñadores, makers y emprendedores, promoviendo prácticas sostenibles y modelos de economía circular.</br>
 
 ● Proponer alternativas de uso para el material laminar reciclado en diversos procesos de diseño y fabricación.</br>
 
@@ -36,7 +36,37 @@ El marco teórico se fundamenta en los principios de economía circular y sosten
 
 ## Antecedentes
 
-Existen varias iniciativas a nivel global que buscan integrar soluciones de reciclaje con la fabricación digital, siendo Precious Plastics uno de los ejemplos más relevantes. Este proyecto ha demostrado la viabilidad del reciclaje de plásticos en pequeñas escalas, pero no existe un sistema que permita la integración de todos los procesos (clasificación, trituración, fundición y moldeo) de manera tan compacta y eficiente. A nivel local, en Uruguay, no se ha desarrollado una solución similar que aproveche los desechos de impresión 3D para fabricar materiales reutilizables.
+A lo largo del tiempo, la problemática de los desechos plásticos ha impulsado diversas iniciativas enfocadas en su reciclaje y reutilización, especialmente en combinación con tecnologías de fabricación digital. Estas iniciativas han servido de inspiración para el desarrollo de soluciones que promuevan la economía circular y reduzcan el impacto ambiental.
+
+### Antecedentes mundiales
+
+En el ámbito global, el proyecto Precious Plastics se destaca como una de las iniciativas más relevantes. Creado por Dave Hakkens, este movimiento ofrece herramientas y conocimientos para que comunidades de todo el mundo puedan reciclar plásticos a pequeña escala. Su enfoque abarca procesos de clasificación, trituración, fundición y moldeado, con diseños modulares que permiten la personalización y escalabilidad de los sistemas. 
+
+![](../images/PFI01R1/PRECIOUSPLASTICS.jpg)
+[Web Precious Plastics](https://www.preciousplastic.com/)
+
+Además, otras iniciativas han explorado la reutilización de plásticos en fabricación digital, como el reciclaje de filamento para impresión 3D. Ejemplos como el Filabot y proyectos relacionados con impresión 3D circular han demostrado cómo los plásticos pueden transformarse en nuevos insumos para esta tecnología.
+
+![](../images/PFI01R1/FILABOT.jpg)
+[Web Filabot](https://www.filabot.com/)
+
+### Antecedentes locales
+
+En Uruguay, el crecimiento en el uso y comercialización de impresoras 3D ha incrementado significativamente la generación de desechos plásticos, especialmente en comunidades de diseñadores, makers y emprendedores. No obstante, hasta la fecha no se han desarrollado sistemas de gestión locales que aprovechen estos desechos de manera totalmente sistemática.
+
+Sin embargo, se destacan algunas iniciativas que abordan la temática desde puntos ideológicos similares:
+
+La Fábrica Makerspace es un emprendimiento que forma parte de la comunidad global de Precious Plastics y generaron el primer taller de experimentación y reciclaje de plástico en Uruguay, se dedican a tomar materiales plásticos deshechados (principalmente ABS) y utilizarlos como materia prima para generar nuevos productos.
+
+![](../images/PFI01R1/LAFABRICA.PNG)
+[Web La Fábrica Makersapce](https://lafabrica.uy/)
+
+Kenistech es un emprendimiento que fabrica y comercializa filamento para impresion 3D reciclado hecho 100% a partir de plásticos de tablets, computadoras en desuso del Plan Ceibal, componentes plásticos de máquinas y periféricos (principalmente ABS).
+
+![](../images/PFI01R1/KENISTECH.jpeg)
+[Web Kenistech](https://fkenistech.wixsite.com/kenistech)
+
+Si bien existen esfuerzos relacionados con el reciclaje de plásticos, estos no están adaptados para atender específicamente los residuos derivados de la impresión 3D. Por lo tanto, el país carece de un modelo que promueva la transformación de estos materiales en productos reutilizables, lo que presenta una oportunidad única para desarrollar soluciones innovadoras y sostenibles dentro del contexto nacional.
 
 ## Metodología
 
