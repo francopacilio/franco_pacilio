@@ -70,22 +70,47 @@ Si bien existen esfuerzos relacionados con el reciclaje de plásticos, estos no 
 
 ## Descripción del proyecto
 
-El proyecto "EcoPlaca 3D" tiene como objetivo ofrecer una solución innovadora y accesible para el reciclaje de desechos plásticos generados por la impresión 3D. El sistema consiste en un dispositivo que realiza el proceso completo de reciclaje, desde la clasificación de los residuos hasta la creación de placas funcionales a partir del material reciclado. Estas placas pueden ser utilizadas en diversos proyectos de diseño y fabricación, cerrando el ciclo de vida del plástico de una manera eficiente y sostenible. El proceso se basa en la clasificación, triturado, fundición, moldeo y secado de los plásticos reciclados.
+El proyecto "EcoPlaca 3D" tiene como objetivo ofrecer un modelo de reciclaje adaptado a las herramientas y necesidades locales con el fin de brindar una solución innovadora y accesible a la problemática de los desechos plásticos generados por la impresión 3D. Estas placas pueden ser utilizadas en diversos proyectos de diseño y fabricación, cerrando el ciclo de vida del plástico de una manera eficiente y sostenible. El proceso se basa en la clasificación, triturado, fundición, moldeo y secado de los plásticos reciclados. 
 
 ## Materiales y componentes
 
-● Materiales: Residuos plásticos de impresión 3D (PLA, ABS, PETG), acero inoxidable y componentes plásticos impresos en 3D.</br>
+● Materiales: Residuos plásticos de impresión 3D (PLA y PLA + principalmente)</br>
 
-● Componentes Electrónicos: Sensores de temperatura y humedad, Arduino, motores paso a paso, y controladores electrónicos</br>
+● Herramientas: Trituradora de plásticos y máquina de sublimación.
 
-## Partes y sistemas fabricados
+● Componentes Electrónicos: Sensores de temperatura y humedad, Placa Arduino UNO, y controladores electrónicos</br>
 
-● Sistema de Triturado: Componente para triturar los desechos plásticos en pequeños fragmentos.</br>
+## Modelo de funcionamiento
 
-● Máquina de Fundición y Moldeo: Permite transformar los plásticos triturados en placas mediante calor y presión.</br>
+El proceso esencialmente consta de cinco pasos: selección de plásticos, monitoreo de condiciones, triturar los plásticos, fundición y moldeo, y, finalmente, desmoldar y enfriar.
 
-● Sistema de Monitoreo: Utiliza Arduino y sensores para medir y controlar la temperatura y humedad durante el proceso.</br>
+### Selección de plásticos
 
+El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con dimensiones y densidad adecuadas para la trituradora, asegurando su funcionamiento óptimo. Los fragmentos deben medir, como máximo, 2 a 3 centímetros cúbicos, lo que permite procesarlos eficientemente sin sobrecargar la máquina. Se utilizarán principalmente desechos de PLA y PLA+, ya que estos materiales no solo son los más utilizados en impresión 3D, sino que también presentan una temperatura de fusión baja, facilitando su fundición y posterior transformación en placas funcionales. Además, el PLA está diseñado para enfriarse rápidamente, lo que lo hace ideal para procesos como el corte láser, donde mantiene su estabilidad. En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente durante el corte láser debido a sus propiedades térmicas, limitando su aplicación en este tipo de procesos.
+
+El PLA (ácido poliláctico) es un termoplástico biodegradable derivado de recursos renovables, conocido por su facilidad de uso en impresión 3D y su baja temperatura de fusión, alrededor de 173 °C. Esta característica permite que el PLA se funda y solidifique rápidamente, facilitando su procesamiento en técnicas como el corte láser. Por otro lado, el ABS (acrilonitrilo butadieno estireno) tiene una temperatura de fusión más alta y una mayor resistencia al calor, lo que puede provocar que, durante el corte láser, el material se reblandezca o funda nuevamente, afectando la precisión y calidad del corte. Por lo tanto, el uso de PLA para la fabricación de placas destinadas al corte láser es más adecuado debido a su comportamiento térmico favorable en estos procesos.
+
+### Monitoreo de condiciones
+
+Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear y ajustar estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.
+
+### Sistema de Triturado
+
+A continuación, los plásticos seleccionados se introducen en la tolva de la máquina trituradora, basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.
+
+Este proceso de refinamiento es esencial para garantizar que el material esté en condiciones óptimas para las etapas posteriores de fundición y moldeado, asegurando la calidad y consistencia del producto final. El uso del diseño de Precious Plastic no solo garantiza un rendimiento comprobado, sino que también promueve la filosofía de código abierto y sostenibilidad en el reciclaje de plásticos.
+
+### Máquina de Fundición y Moldeo
+
+Se coloca una lámina de teflón reforzada con fibra de vidrio en la base de la máquina de sublimación, seguida de la colocación de un marco metálico centrado sobre ella. El interior del marco se rellena con el picadillo triturado previamente procesado. Luego, se coloca una segunda lámina de teflón con fibra de vidrio sobre el material, y todo el conjunto se prensa utilizando la estructura superior de la máquina. Tras el tiempo requerido para la sublimación, se abre la máquina y se voltea el marco para repetir el prensado, asegurando un acabado uniforme en ambos lados del material.
+
+El tiempo de sublimación varía según factores como la cantidad de material, las dimensiones del marco y la temperatura empleada. En este proceso, se utiliza un marco de 340x220x15 mm, trabajando a una temperatura de 170 °C, con un tiempo estimado de prensado de entre 5 y 7 minutos por cada lado. Este método asegura que el material se funda de manera uniforme, adopte la forma deseada y garantice un producto final con alta resistencia y calidad.
+
+Aunque la máquina de sublimación no es una herramienta especializada para el reciclaje de plásticos, su disponibilidad, adaptabilidad y bajo costo la convierten en una opción viable para proyectos locales que buscan implementar soluciones sostenibles en el manejo de desechos plásticos de impresión 3D.
+
+### Desmoldeo y enfriado
+
+Se retira el conjunto completo de la máquina de sublimación y se coloca en un lugar adecuado para que el material se enfríe a temperatura ambiente. Una vez que el plástico ha alcanzado una temperatura segura, se utiliza una trincheta para repasar cuidadosamente los bordes del marco, lo que facilita la extracción de la plancha sin comprometer su integridad. Este procedimiento es crucial para prevenir daños en el producto final y garantizar que conserve la forma y calidad deseadas, manteniendo así la uniformidad y funcionalidad de la placa reciclada.
 
 ## Procesos utilizados
 
