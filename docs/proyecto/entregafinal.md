@@ -70,35 +70,79 @@ Si bien existen esfuerzos relacionados con el reciclaje de plásticos, estos no 
 
 ## Descripción del proyecto
 
-El proyecto "EcoPlaca 3D" tiene como objetivo ofrecer un modelo de reciclaje adaptado a las herramientas y necesidades locales con el fin de brindar una solución innovadora y accesible a la problemática de los desechos plásticos generados por la impresión 3D. Estas placas pueden ser utilizadas en diversos proyectos de diseño y fabricación, cerrando el ciclo de vida del plástico de una manera eficiente y sostenible. El proceso se basa en la clasificación, triturado, fundición, moldeo y secado de los plásticos reciclados. 
+El proyecto "EcoPlaca 3D" tiene como objetivo transformar los desechos plásticos generados por la impresión 3D en placas recicladas totalmente funcionales, que pueden emplearse en diversos tipos de proyectos de diseño y fabricación. Estas placas se producen mediante un proceso que integra tecnologías de fabricación digital, como el corte láser, y promueve el cierre del ciclo de vida del plástico de forma eficiente, responsable y sostenible.
 
-## Materiales y componentes
+El modelo de reciclaje propuesto se adapta a las herramientas y necesidades del contexto local, brindando una solución innovadora y accesible a la problemática ambiental que representan los residuos plásticos derivados de la impresión 3D. Este enfoque no solo contribuye a la economía circular, sino que también fomenta la reutilización creativa de materiales, ofreciendo un recurso valioso para diseñadores, makers y emprendedores comprometidos con la sostenibilidad.
 
-● Materiales: Residuos plásticos de impresión 3D (PLA y PLA + principalmente)</br>
+![](../images/PFI03/EcoPlaca3D.jpg)
 
-● Herramientas: Trituradora de plásticos y máquina de sublimación.
+## Materiales y herramientas necesarias para la fabricación de las placas
 
-● Componentes Electrónicos: Sensores de temperatura y humedad, Placa Arduino UNO, y controladores electrónicos</br>
+● Materiales: Residuos plásticos de impresión 3D (PLA y PLA + principalmente)
+
+● Herramientas: Trituradora de plásticos, máquina de sublimación, marcos metálicos.
+
+● Herramientas manuales: Pinza, alicate, martillo, trincheta, equipo de protección.
+
+● Componentes Electrónicos: Sensores de temperatura y humedad, Placa Arduino UNO, y controladores electrónicos.
 
 ## Modelo de funcionamiento
 
-El proceso esencialmente consta de cinco pasos: selección de plásticos, monitoreo de condiciones, triturar los plásticos, fundición y moldeo, y, finalmente, desmoldar y enfriar.
+El proceso esencialmente consta de cinco pasos: selección de plásticos, triturado de plásticos, monitoreo de condiciones, fundición y moldeo, y por último, secado y desmoldeo.
 
 ### Selección de plásticos
 
-El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con dimensiones y densidad adecuadas para la trituradora, asegurando su funcionamiento óptimo. Los fragmentos deben medir, como máximo, 2 a 3 centímetros cúbicos, lo que permite procesarlos eficientemente sin sobrecargar la máquina. Se utilizarán principalmente desechos de PLA y PLA+, ya que estos materiales no solo son los más utilizados en impresión 3D, sino que también presentan una temperatura de fusión baja, facilitando su fundición y posterior transformación en placas funcionales. Además, el PLA está diseñado para enfriarse rápidamente, lo que lo hace ideal para procesos como el corte láser, donde mantiene su estabilidad. En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente durante el corte láser debido a sus propiedades térmicas, limitando su aplicación en este tipo de procesos.
+El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con dimensiones y densidad adecuadas para la trituradora, asegurando su óptimo funcionamiento. Los fragmentos deben medir, como máximo, 2 a 3 centímetros cúbicos, lo que permite procesarlos eficientemente sin sobrecargar la máquina. Se utilizarán principalmente desechos de PLA y PLA+, ya que este material es universalmente el más utilizado en impresión 3D.
 
-El PLA (ácido poliláctico) es un termoplástico biodegradable derivado de recursos renovables, conocido por su facilidad de uso en impresión 3D y su baja temperatura de fusión, alrededor de 173 °C. Esta característica permite que el PLA se funda y solidifique rápidamente, facilitando su procesamiento en técnicas como el corte láser. Por otro lado, el ABS (acrilonitrilo butadieno estireno) tiene una temperatura de fusión más alta y una mayor resistencia al calor, lo que puede provocar que, durante el corte láser, el material se reblandezca o funda nuevamente, afectando la precisión y calidad del corte. Por lo tanto, el uso de PLA para la fabricación de placas destinadas al corte láser es más adecuado debido a su comportamiento térmico favorable en estos procesos.
+#### PLA
 
-### Monitoreo de condiciones
+El PLA (ácido poliláctico) es un termoplástico biodegradable derivado de recursos renovables, conocido por su facilidad de uso en impresión 3D y su baja temperatura de fusión, alrededor de 173°C. 
 
-Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear y ajustar estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.
+*foto ilustrativa de PLA*
+
+Este material es ideal para el corte láser gracias a su facilidad en el procesamiento, rápida solidificación y baja conductividad térmica, que permiten cortes precisos sin deformaciones ni residuos indeseados. Además, su origen sostenible y su compatibilidad con tecnologías de fabricación digital lo convierten en una opción versátil para proyectos que buscan integrar sostenibilidad y calidad.
+
+En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente durante el corte láser debido a sus propiedades térmicas, limitando su aplicación en este tipo de procesos.
+
+#### Tipos de desechos
+
+● Soportes: Estructuras auxiliares utilizadas para sostener partes de una impresión 3D durante el proceso, que luego se eliminan.
+
+*foto de soportes*
+
+● Impresiones fallidas: Piezas incompletas o defectuosas generadas por errores en la impresión, como mala adhesión o interrupciones.
+
+*foto de impresiones fallidas*
+
+● Pruebas de impresión: Objetos fabricados para ajustar configuraciones o evaluar el rendimiento de la impresora.
+
+*foto de pruebas de impresion*
+
+● Sobrantes de filamentos: Fragmentos o extremos de filamentos que no pueden ser utilizados en nuevas impresiones debido a su longitud limitada.
+
+*foto de sobrantes de filamentos*
+
+Algunos de estos desechos resultan demasiado grandes y robustos, lo que requiere romperlos manualmente antes de triturarlos. Para esta tarea se utilizan herramientas como martillos, trinchetas, alicates, pinzas para metales y otros utensilios manuales, con el fin de reducir su tamaño a uno óptimo para el proceso de trituración. Este paso es fundamental para facilitar el manejo y asegurar un reciclaje eficiente.
+
+*foto de los deshechos mixtos*
 
 ### Sistema de Triturado
 
-A continuación, los plásticos seleccionados se introducen en la tolva de la máquina trituradora, basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.
+Los plásticos seleccionados y previamente fraccionados en tamaños más chicos, se introducen en la tolva de la máquina trituradora. 
+
+*foto de los deshechos previamente a triturarse*
+
+La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.
+
+*foto de la tolva*
 
 Este proceso de refinamiento es esencial para garantizar que el material esté en condiciones óptimas para las etapas posteriores de fundición y moldeado, asegurando la calidad y consistencia del producto final. El uso del diseño de Precious Plastic no solo garantiza un rendimiento comprobado, sino que también promueve la filosofía de código abierto y sostenibilidad en el reciclaje de plásticos.
+
+
+
+### Monitoreo de condiciones
+
+Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.
 
 ### Máquina de Fundición y Moldeo
 
