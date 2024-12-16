@@ -98,7 +98,7 @@ El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con d
 
 El PLA (ácido poliláctico) es un termoplástico biodegradable derivado de recursos renovables, conocido por su facilidad de uso en impresión 3D y su baja temperatura de fusión, alrededor de 173°C. 
 
-*foto ilustrativa de PLA*
+![](../images/PFI03/PLA.jpg)
 
 Este material es ideal para el corte láser gracias a su facilidad en el procesamiento, rápida solidificación y baja conductividad térmica, que permiten cortes precisos sin deformaciones ni residuos indeseados. Además, su origen sostenible y su compatibilidad con tecnologías de fabricación digital lo convierten en una opción versátil para proyectos que buscan integrar sostenibilidad y calidad.
 
