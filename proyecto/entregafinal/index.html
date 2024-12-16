@@ -1186,9 +1186,9 @@
 <p>● Componentes Electrónicos: Sensores de temperatura y humedad, Placa Arduino UNO, y controladores electrónicos.</p>
 <h2 id="modelo-de-funcionamiento">Modelo de funcionamiento<a class="headerlink" href="#modelo-de-funcionamiento" title="Permanent link">&para;</a></h2>
 <p>El proceso esencialmente consta de cinco pasos: selección de plásticos, triturado de plásticos, monitoreo de condiciones, fundición y moldeo, y por último, secado y desmoldeo.</p>
+<p><img alt="" src="../../images/PFI03/ESQUEMA.png" /></p>
 <h3 id="seleccion-de-plasticos">Selección de plásticos<a class="headerlink" href="#seleccion-de-plasticos" title="Permanent link">&para;</a></h3>
 <p>El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con dimensiones y densidad adecuadas para la trituradora, asegurando su óptimo funcionamiento. Los fragmentos deben medir, como máximo, 2 a 3 centímetros cúbicos, lo que permite procesarlos eficientemente sin sobrecargar la máquina. Se utilizarán principalmente desechos de PLA y PLA+, ya que este material es universalmente el más utilizado en impresión 3D.</p>
-<p><img alt="" src="../../images/PFI03/ESQUEMA.png" /></p>
 <h4 id="pla">PLA<a class="headerlink" href="#pla" title="Permanent link">&para;</a></h4>
 <p>El PLA (ácido poliláctico) es un termoplástico biodegradable derivado de recursos renovables, conocido por su facilidad de uso en impresión 3D y su baja temperatura de fusión, alrededor de 173°C. </p>
 <p><img alt="" src="../../images/PFI03/PLA.jpg" /></p>
@@ -1196,21 +1196,23 @@
 <p>En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente durante el corte láser debido a sus propiedades térmicas, limitando su aplicación en este tipo de procesos.</p>
 <h4 id="tipos-de-desechos">Tipos de desechos<a class="headerlink" href="#tipos-de-desechos" title="Permanent link">&para;</a></h4>
 <p>● Soportes: Estructuras auxiliares utilizadas para sostener partes de una impresión 3D durante el proceso, que luego se eliminan.</p>
-<p><em>foto de soportes</em></p>
+<p><img alt="" src="../../images/PFI03/SOPORTES.png" /></p>
 <p>● Impresiones fallidas: Piezas incompletas o defectuosas generadas por errores en la impresión, como mala adhesión o interrupciones.</p>
-<p><em>foto de impresiones fallidas</em></p>
-<p>● Pruebas de impresión: Objetos fabricados para ajustar configuraciones o evaluar el rendimiento de la impresora.</p>
-<p><em>foto de pruebas de impresion</em></p>
+<p><img alt="" src="../images/PFI03/FALLIDA.jpg" /></p>
+<p>● Pruebas de impresión: Objetos fabricados para ajustar configuraciones y tolerancias o evaluar el rendimiento de la impresora.</p>
+<p><img alt="" src="../../images/PFI03/PRUEBA.jpg" /></p>
 <p>● Sobrantes de filamentos: Fragmentos o extremos de filamentos que no pueden ser utilizados en nuevas impresiones debido a su longitud limitada.</p>
-<p><em>foto de sobrantes de filamentos</em></p>
+<p><img alt="" src="../../images/PFI03/SOBRANTE.jpeg" /></p>
 <p>Algunos de estos desechos resultan demasiado grandes y robustos, lo que requiere romperlos manualmente antes de triturarlos. Para esta tarea se utilizan herramientas como martillos, trinchetas, alicates, pinzas para metales y otros utensilios manuales, con el fin de reducir su tamaño a uno óptimo para el proceso de trituración. Este paso es fundamental para facilitar el manejo y asegurar un reciclaje eficiente.</p>
-<p><em>foto de los deshechos mixtos</em></p>
 <h3 id="sistema-de-triturado">Sistema de Triturado<a class="headerlink" href="#sistema-de-triturado" title="Permanent link">&para;</a></h3>
 <p>Los plásticos seleccionados y previamente fraccionados en tamaños más chicos, se introducen en la tolva de la máquina trituradora. </p>
-<p><em>foto de los deshechos previamente a triturarse</em></p>
-<p>La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.</p>
-<p><em>foto de la tolva</em></p>
+<p><img alt="" src="../../images/PFI03/MIXTOS.jpeg" /></p>
+<p>La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. </p>
+<p><img alt="" src="../../images/PFI03/TOLVA.jpeg" /></p>
+<p>Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.</p>
+<p><img alt="" src="../../images/PFI03/PRIMERPICADO.jpeg" /></p>
 <p>Este proceso de refinamiento es esencial para garantizar que el material esté en condiciones óptimas para las etapas posteriores de fundición y moldeado, asegurando la calidad y consistencia del producto final. El uso del diseño de Precious Plastic no solo garantiza un rendimiento comprobado, sino que también promueve la filosofía de código abierto y sostenibilidad en el reciclaje de plásticos.</p>
+<p><img alt="" src="../../images/PFI03/PICADOFINO.jpeg" /></p>
 <h3 id="monitoreo-de-condiciones">Monitoreo de condiciones<a class="headerlink" href="#monitoreo-de-condiciones" title="Permanent link">&para;</a></h3>
 <p>Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.</p>
 <h3 id="maquina-de-fundicion-y-moldeo">Máquina de Fundición y Moldeo<a class="headerlink" href="#maquina-de-fundicion-y-moldeo" title="Permanent link">&para;</a></h3>
