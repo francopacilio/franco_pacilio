@@ -90,11 +90,11 @@ El modelo de reciclaje propuesto se adapta a las herramientas y necesidades del 
 
 El proceso esencialmente consta de cinco pasos: selección de plásticos, triturado de plásticos, monitoreo de condiciones, fundición y moldeo, y por último, secado y desmoldeo.
 
+![](../images/PFI03/ESQUEMA.png)
+
 ### Selección de plásticos
 
 El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con dimensiones y densidad adecuadas para la trituradora, asegurando su óptimo funcionamiento. Los fragmentos deben medir, como máximo, 2 a 3 centímetros cúbicos, lo que permite procesarlos eficientemente sin sobrecargar la máquina. Se utilizarán principalmente desechos de PLA y PLA+, ya que este material es universalmente el más utilizado en impresión 3D.
-
-![](../images/PFI03/ESQUEMA.png)
 
 #### PLA
 
@@ -110,37 +110,39 @@ En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente dur
 
 ● Soportes: Estructuras auxiliares utilizadas para sostener partes de una impresión 3D durante el proceso, que luego se eliminan.
 
-*foto de soportes*
+![](../images/PFI03/SOPORTES.png)
 
 ● Impresiones fallidas: Piezas incompletas o defectuosas generadas por errores en la impresión, como mala adhesión o interrupciones.
 
-*foto de impresiones fallidas*
+![](../images/PFI03/FALLIDA.jpg)
 
-● Pruebas de impresión: Objetos fabricados para ajustar configuraciones o evaluar el rendimiento de la impresora.
+● Pruebas de impresión: Objetos fabricados para ajustar configuraciones y tolerancias o evaluar el rendimiento de la impresora.
 
-*foto de pruebas de impresion*
+![](../images/PFI03/PRUEBA.jpg)
 
 ● Sobrantes de filamentos: Fragmentos o extremos de filamentos que no pueden ser utilizados en nuevas impresiones debido a su longitud limitada.
 
-*foto de sobrantes de filamentos*
+![](../images/PFI03/SOBRANTE.jpeg)
 
 Algunos de estos desechos resultan demasiado grandes y robustos, lo que requiere romperlos manualmente antes de triturarlos. Para esta tarea se utilizan herramientas como martillos, trinchetas, alicates, pinzas para metales y otros utensilios manuales, con el fin de reducir su tamaño a uno óptimo para el proceso de trituración. Este paso es fundamental para facilitar el manejo y asegurar un reciclaje eficiente.
-
-*foto de los deshechos mixtos*
 
 ### Sistema de Triturado
 
 Los plásticos seleccionados y previamente fraccionados en tamaños más chicos, se introducen en la tolva de la máquina trituradora. 
 
-*foto de los deshechos previamente a triturarse*
+![](../images/PFI03/MIXTOS.jpeg)
 
-La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.
+La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. 
 
-*foto de la tolva*
+![](../images/PFI03/TOLVA.jpeg)
+
+Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.
+
+![](../images/PFI03/PRIMERPICADO.jpeg)
 
 Este proceso de refinamiento es esencial para garantizar que el material esté en condiciones óptimas para las etapas posteriores de fundición y moldeado, asegurando la calidad y consistencia del producto final. El uso del diseño de Precious Plastic no solo garantiza un rendimiento comprobado, sino que también promueve la filosofía de código abierto y sostenibilidad en el reciclaje de plásticos.
 
-
+![](../images/PFI03/PICADOFINO.jpeg)
 
 ### Monitoreo de condiciones
 
