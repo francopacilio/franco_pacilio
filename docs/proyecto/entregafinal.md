@@ -308,9 +308,30 @@ La Impresión 3D desempeña un rol fundamental y complementario en este proceso.
 
 ### Fabricación Sustractiva
 
-Para el corte de los marcos metálicos y las placas recicladas, se utiliza fabricación sustractiva mediante corte láser, lo que garantiza precisión, eficiencia y un acabado limpio en ambos materiales.
+Para el corte de los marcos metálicos, se utiliza fabricación sustractiva mediante corte láser, lo que garantiza una alta precisión dimensional, y una terminación recta y limpia en las aristas del marco.
 
-*desarrollar corte láser*
+![](../images/PFI03/MARCORECORTADO.jpeg)
+
+Para el corte de las placas recicladas, se aplica la fabricación sustractiva mediante corte láser, asegurando una definición precisa de los cortes y terminaciones uniformes en las aristas del material. Dado que las placas recicladas son un material duro, el corte láser resulta un proceso ideal, ya que métodos como el uso de herramientas manuales o fresado CNC tienden a resquebrajar y quebrar la plancha.
+
+Además, como se mencionó anteriormente, la rápida solidificación y la baja conductividad térmica del material permiten realizar cortes precisos sin generar deformaciones. Esto es principalmente posible al trabajar con PLA y PLA+, los materiales más comunes y utilizados en el mundo de la impresión 3D, lo que a su vez los convierte en los principales generadores de residuos plásticos dentro de esta industria.
+
+![](../images/PFI03/CORTELASER.jpg)
+
+#### Conclusiones
+
+Se realizaron múltiples pruebas de corte, durante las cuales se ajustaron los parámetros de velocidad y potencia de la máquina de corte láser. El objetivo fue evaluar y optimizar dichos parámetros para lograr cortes rectos y precisos, evitando el sobrecalentamiento del material y asegurando que las piezas se desprendan fácilmente sin que el láser invada o dañe el material circundante.
+
+![](../images/PFI03/PLANCHACORTADA.jpeg)
+
+Los parámetros finales son:
+
+● *PROC SPD (Velocidad de corte):* 600<br>
+● *TRVL SPD (Velocidad de desplazamiento entre cortes):* 1200<br>
+● *Cut PWR (Potencia de corte):* 40%<br>
+● *Turn PWR (Potencia de encendido):* 40%<br>
+
+Cabe destacar que estos parámetros pueden variar según la marca y modelo de la cortadora láser, la potencia del láser, el tipo de máquina utilizada, el mantenimiento realizado y el estado de sus componentes. Estos factores influyen directamente en la precisión del corte final, por lo que, en otro contexto, será casi seguro necesario realizar ajustes adicionales a estos parámetros.
 
 ## Posibles aplicaciones del material
 
