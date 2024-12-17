@@ -230,17 +230,77 @@ Una vez retirada la plancha del marco, generalmente quedan algunos excedentes de
 
 ![](../images/PFI03/PLANCHACONBORDES.jpeg)
 
-## Procesos utilizados
-
-● Fabricación Aditiva (Impresión 3D): Para la creación de componentes del dispositivo, como estructuras y soportes.</br>
-
-● Fabricación Sustractiva (Corte Láser y CNC): Para la creación de piezas metálicas y el corte de las placas recicladas.</br>
-
-● Termoformado y Moldeo: Los plásticos reciclados son fundidos y moldeados en una máquina sublimadora, produciendo placas que se estabilizan por enfriamiento.</br>
-
 ## Resultados obtenidos
 
+Durante el desarrollo de este proyecto, logré obtener cuatro ejemplares de placas fabricadas a partir de desechos de impresión 3D, cada una con diferentes cualidades y niveles de acabado. Este resultado evidencia tanto las facilidades como las dificultades del proceso. Si bien la creación de estas placas no es intrínsecamente compleja, alcanzar una mayor definición y calidad en el acabado representa el verdadero desafío. Aquí es donde entran en juego las estandarizaciones, consideraciones y precauciones que deben respetarse rigurosamente a lo largo del proceso para asegurar resultados óptimos.
+
+![](../images/PFI03/PLANCHA1.jpg)
+● *Materiales:* PLA y PLA+ <br>
+● *Colores:* Negro, Naranja, Blanco y Gris<br>
+● *Temperatura y humedad ambiente:* Proceso aún no implementado<br>
+● *Temperatura de sublimación:* 170°<br>
+● *Tiempos de sublimación:* 7 minutos por lado<br>
+● *Proceso de secado:* Temperatura ambiente en superficie plana con peso plano aplicado<br>
+● *Marco:* 400x300x1,5mm<br>
+● *Material del marco:* Hierro<br>
+● *Plancha:* 340x220x1,5mm<br>
+● *Peso final:* 175 gramos<br>
+
+![](../images/PFI03/PLANCHA2.jpeg)
+● *Materiales:* PLA y PLA+ <br>
+● *Colores:* Negro, Blanco, Rojo, Celeste y Gris<br>
+● *Temperatura y humedad ambiente:* 27°, 65%<br>
+● *Temperatura de sublimación:* 180°<br>
+● *Tiempos de sublimación:* 10 minutos por lado<br>
+● *Proceso de secado:* Temperatura ambiente en superficie plana sin peso aplicado<br>
+● *Marco:* 400x300x2,5mm<br>
+● *Material del marco:* Hierro<br>
+● *Plancha:* 340x220x2,5mm<br>
+● *Peso final:* 205 gramos<br>
+
+![](../images/PFI03/PLANCHA3.jpeg)
+● *Materiales:* PLA y PLA+ <br>
+● *Colores:* Negro, Blanco, Rojo, Celeste y Gris<br>
+● *Temperatura y humedad ambiente:* 27°, 65%<br>
+● *Temperatura de sublimación:* 180°<br>
+● *Tiempos de sublimación:* 10 minutos por lado<br>
+● *Proceso de secado:* Temperatura ambiente en superficie plana con peso plano aplicado<br>
+● *Marco:* 400x300x2,5mm<br>
+● *Material del marco:* Hierro<br>
+● *Plancha:* 340x220x2,5mm<br>
+● *Peso final:* 235 gramos<br>
+
+![](../images/PFI03/PLANCHA4.jpeg)
+● *Materiales:* PLA y PLA+ <br>
+● *Colores:* Negro, Blanco, Rojo, Celeste y Gris<br>
+● *Temperatura y humedad ambiente:* 27°, 65%<br>
+● *Temperatura de sublimación:* 180°<br>
+● *Tiempos de sublimación:* 10 minutos por lado<br>
+● *Proceso de secado:* Prensado en maquina de sublimación fría<br>
+● *Marco:* 250x150x3,5mm<br>
+● *Material del marco:* MDF<br>
+● *Plancha:* 230x130x2,5mm<br>
+● *Peso final:* 120 gramos<br>
+
+## Procesos de fabricación digital utilizados
+
+Se aplican tecnologías de fabricación aditiva, como la impresión 3D, que actúa como generadora de residuos utilizados como materia prima, y de fabricación sustractiva, como el corte láser, para el corte de marcos y el procesamiento de materiales reciclados.
+
+### Fabricación Aditiva
+
+La Impresión 3D desempeña un rol fundamental y complementario en este proceso. Si bien no interviene directamente en la producción de las piezas finales, resulta indispensable, ya que es la fuente de los desechos plásticos que se utilizan como materia prima en todo el procedimiento de reciclaje.
+
+![](../images/PFI03/DESECHOS2.PNG)
+
+### Fabricación Sustractiva
+
+Para el corte de los marcos metálicos y las placas recicladas, se utiliza fabricación sustractiva mediante corte láser, lo que garantiza precisión, eficiencia y un acabado limpio en ambos materiales.
+
+*desarrollar corte láser*
+
 ## Posibles aplicaciones del material
+
+*ejemplos de usos de las placas*
 
 ## Propuesta de valor
 
