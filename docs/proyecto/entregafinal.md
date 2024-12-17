@@ -150,7 +150,6 @@ Los plásticos seleccionados y previamente fraccionados en tamaños más chicos,
 
 La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. 
 
-
 ![](../images/PFI03/TOLVA.jpeg)
 
 Dependiendo del tamaño y densidad de los desechos, puede ser necesario repetir el proceso de trituración para obtener un picadillo más fino y homogéneo.
@@ -425,9 +424,19 @@ Innovar no se limita a crear algo nuevo, sino también a adaptar soluciones exis
 
 El proyecto integra tecnologías modernas y accesibles, como el corte láser, para procesar las placas con precisión. Esta incorporación tecnológica potencia el valor del material reciclado y abre posibilidades en el diseño y fabricación local.
 
+### Socios estratégicos
+
+Como se mencionó en los antecedentes locales, en el contexto nacional uruguayo existe La Fábrica Makerspace, un emprendimiento dedicado al reciclaje de plásticos. Si bien su enfoque principal no está en los plásticos reciclados de impresión 3D, trabajan con materiales como el ABS, especialmente provenientes de elementos cotidianos como tapitas de botellas.
+
+Este espacio cuenta con un taller de co-working equipado con una trituradora de plásticos y sublimadoras, brindando las herramientas necesarias para procesar y transformar materiales reciclados. Además, La Fábrica Makerspace se caracteriza por estar abierta y disponible para recibir a pequeños negocios o proyectos independientes que deseen plantear iniciativas de reciclaje y exploración de nuevas soluciones con plásticos.
+
+Sin embargo, dado que La Fábrica Makerspace no se especializa en el reciclaje de plásticos provenientes de la impresión 3D, como el PLA y el PLA+, desconocen los parámetros, limitaciones, aplicaciones y criterios específicos que han sido investigados y desarrollados en este proyecto. Es aquí donde la información generada por EcoPlaca 3D adquiere un valor fundamental, al proporcionar lineamientos técnicos detallados para trabajar con estos materiales. Esto no solo asegura resultados eficientes y de calidad, sino que también incentiva a otros diseñadores, makers y emprendedores a incursionar en estos procesos, demostrando que obtener productos reciclados funcionales está al alcance de la mano.
+
 ### En conclusión
 
-Este proyecto busca brindar una solución práctica y escalable al problema del desperdicio de plástico de Impresión 3D, generando nuevas oportunidades en el ámbito del diseño y la fabricación local. Este enfoque promueve la creatividad, el reciclaje responsable y el uso eficiente de recursos, alineándose con los principios de la sostenibilidad y la innovación.
+EcoPlaca 3D busca brindar una solución práctica y escalable al problema del desperdicio de plásticos de impresión 3D, transformándolos en materiales funcionales y estéticamente atractivos. El proyecto genera nuevas oportunidades en el ámbito del diseño y la fabricación local, al tiempo que promueve la creatividad, el reciclaje responsable y el uso eficiente de recursos.
+
+A través de lineamientos técnicos claros para trabajar con PLA y PLA+, facilita su implementación en talleres propios o espacios colaborativos, alineándose con los principios de la sostenibilidad, la innovación y la economía circular.
 
 ## Resultados y discusión
 
