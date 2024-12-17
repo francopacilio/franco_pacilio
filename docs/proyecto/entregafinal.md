@@ -440,25 +440,49 @@ A través de lineamientos técnicos claros para trabajar con PLA y PLA+, facilit
 
 ## Resultados y discusión
 
-En el transcurso del proyecto, algunas problemáticas fueron correctamente abordadas, así como otras no. Estas son algunas de ellas:
+Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio camino para definir la temática final que se abordaría. A lo largo del proceso, surgieron preguntas y cuestionamientos que nos guiaron y ayudaron a estructurar estos proyectos. Algunas problemáticas fueron correctamente abordadas y obtuvieron resultados positivos, mientras que otras presentaron dificultades o quedaron parcialmente resueltas. A continuación, se destacan algunas de ellas:
 
 ### Preguntas Respondidas:
 
-● ¿Es posible reciclar desechos plásticos de impresión 3D para producir materiales reutilizables de manera efectiva?</br>
+● ¿Es posible reciclar desechos plásticos de impresión 3D para producir materiales funcionales reutilizables?
 
-● ¿Qué condiciones deben ser monitoreadas para garantizar la calidad del material reciclado?</br>
+● ¿Qué condiciones deben monitorearse para garantizar la calidad del material reciclado?
+
+● ¿Cuáles son los puntos clave del proceso de fabricación que influyen en el resultado final?
+
+● ¿Cómo influye el tipo de material de desecho de impresión 3D en el proceso de reciclaje?
+
+● ¿Qué aplicaciones pueden tener las placas de material reciclado?
+
+● ¿En qué procesos de diseño y fabricación se pueden utilizar estos materiales?
+
+● ¿Cuál es la replicabilidad y escalabilidad del proyecto a nivel local?
 
 ### Lo que Funcionó:
 
-● El proceso de reciclaje generó placas funcionales de alta calidad.</br>
+● El proceso de reciclaje logró producir placas funcionales con propiedades físicas y estéticas destacadas.
 
-● El sistema de monitoreo basado en Arduino permitió optimizar las condiciones de producción.</br>
+● El sistema de monitoreo basado en Arduino permitió estandarizar condiciones de temperatura y humedad.
+
+● La integración de tecnologías como el corte láser amplió las posibilidades de uso del material reciclado.
+
+● El acabado tie-dye resultante en las placas aportó un valor estético único, diferenciando el producto final y destacando el origen reciclado del material.
+
+● La reutilización de PLA y PLA+ demostró ser viable, alineándose con los principios de economía circular y reduciendo el impacto ambiental de los residuos de impresión 3D.
 
 ### Lo que No Funcionó:
 
-● La variabilidad en la calidad de los desechos plásticos afectó la consistencia del material reciclado.</br>
+● No fue posible determinar los valores óptimos de temperatura y humedad para el PLA y PLA+ durante este proceso. Esto se debe a la ausencia de un componente específico que permita secar y controlar las condiciones ambientales del material previo a su procesamiento. Contar con un sistema de secado controlado sería fundamental para garantizar la calidad y estabilidad del material, dado que la humedad excesiva en el PLA puede afectar su viscosidad, fluidez y, en consecuencia, la uniformidad del producto final.
 
-● El sistema de fundición necesitó ajustes para mejorar la uniformidad del grosor de las placas.</br>
+● Los parámetros de tiempo, temperatura y cantidad de material en la máquina de sublimación durante la fase de fundición y moldeo, aún requieren ajustes adicionales para mejorar la uniformidad del grosor de las placas y minimizar las deformaciones en las superficies. Optimizar estos factores es esencial para obtener un producto final más consistente y de mayor calidad, evitando variaciones en el espesor y ondulaciones que afectan el acabado superficial y las propiedades funcionales del material reciclado.
+
+● No fue posible profundizar ni explorar de manera práctica las alternativas de uso del material reciclado. Si bien se plantearon propuestas y posibilidades de aplicación, acompañadas por representaciones gráficas, la falta de tiempo impidió llevar estas ideas a la materialización real. Este aspecto deja abierta la oportunidad de continuar con futuras iteraciones y pruebas, para validar y demostrar las aplicaciones concretas del material en distintos contextos de diseño y fabricación.
+
+● Uno de los puntos que considero más importantes de este proyecto es difundir esta información de manera clara, resumida, visual y accesible a la comunidad maker, de diseñadores, emprendedores y negocios locales. El objetivo es que esta información sirva como incentivo, mostrando las posibilidades del material reciclado y lo simple que puede resultar el proceso de transformación. Lamentablemente, debido a la falta de tiempo, no logré desarrollar un instructivo digital con estas características. No obstante, actualmente cuento con toda la información redactada y organizada en esta entrega, lo que representa una base sólida para su futura elaboración y difusión.
+
+### Caminos a seguir
+
+*profundizar*
 
 ## Conclusiones
 
@@ -469,8 +493,6 @@ El proyecto "EcoPlaca 3D" demostró que es posible reciclar desechos plásticos 
 ● Economía Circular: Modelo de producción y consumo que promueve la reutilización, el reciclaje y la reducción de residuos.</br>
 
 ● Fabricación Aditiva: Proceso de creación de objetos mediante la adición de capas sucesivas de material.</br>
-
-● Termoformado: Proceso de modelado de plásticos a través del calor para darles forma.</br>
 
 ● Precious Plastics: Iniciativa global de código abierto que promueve el reciclaje de plásticos a pequeña escala.</br>
 
