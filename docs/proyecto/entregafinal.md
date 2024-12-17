@@ -126,13 +126,30 @@ En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente dur
 
 Algunos de estos desechos resultan demasiado grandes y robustos, lo que requiere romperlos manualmente antes de triturarlos. Para esta tarea se utilizan herramientas como martillos, trinchetas, alicates, pinzas para metales y otros utensilios manuales, con el fin de reducir su tamaño a uno óptimo para el proceso de trituración. Este paso es fundamental para facilitar el manejo y asegurar un reciclaje eficiente.
 
-### Sistema de Triturado
+### Triturado de plásticos
+
+Para poder adentrarnos en el proceso de triturado, es necesario contar con una trituradora apta para piezas de plástico. Luego de un relevamiento web de las alternativas disponibles en el mercado local, se concluyó que resulta más económico y accesible fabricar una trituradora utilizando los planos e instructivos de código abierto proporcionados por Precious Plastics.
+
+#### Trituradora de plástico
+
+Precious Plastics ofrece recursos gratuitos que incluyen planos, guías y tutoriales detallados para construir una trituradora funcional a partir de materiales locales, reduciendo significativamente los costos. El costo estimado de construcción ronda los 300 USD, dependiendo de la disponibilidad de componentes como motores, cuchillas y estructuras metálicas.
+
+![](../images/PFI03/TRITURADORA.PNG)
+
+En contraste, adquirir una trituradora en el mercado local tiene un costo considerablemente mayor, oscilando entre 800 y 1.200 USD, lo cual representa una inversión menos accesible para proyectos pequeños o emergentes.
+
+La fabricación propia no solo abarata costos, sino que también permite personalizar la máquina según las necesidades específicas del proceso, fomentando los ideales de soluciones locales y sostenibles.
+
+[Link de información sobre construcción de máquina trituradora](https://community.preciousplastic.com/academy/build/shredder)
+
+#### Metodología de triturado
 
 Los plásticos seleccionados y previamente fraccionados en tamaños más chicos, se introducen en la tolva de la máquina trituradora. 
 
 ![](../images/PFI03/MIXTOS.jpeg)
 
 La tolva utilizada está basada en los diseños desarrollados por Precious Plastic, que proporciona planos y guías detalladas para su construcción. Esta trituradora está equipada con un motorreductor que acciona un eje con múltiples cuchillas metálicas diseñadas para triturar eficazmente los plásticos. 
+
 
 ![](../images/PFI03/TOLVA.jpeg)
 
@@ -406,9 +423,11 @@ Innovar no se limita a crear algo nuevo, sino también a adaptar soluciones exis
 
 ### Integración tecnológica 
 
-El proyecto integra tecnologías modernas y accesibles, como el corte láser, para procesar las placas con precisión y calidad. Esta incorporación tecnológica potencia el valor del material reciclado y abre posibilidades en el diseño y fabricación sostenible.
+El proyecto integra tecnologías modernas y accesibles, como el corte láser, para procesar las placas con precisión. Esta incorporación tecnológica potencia el valor del material reciclado y abre posibilidades en el diseño y fabricación local.
 
-En conjunto, EcoPlaca 3D proporciona una solución práctica y escalable al problema del desperdicio plástico, generando nuevas oportunidades en el ámbito del diseño y la fabricación local. Este enfoque promueve la creatividad, el reciclaje responsable y el uso eficiente de recursos, alineándose con los principios de la sostenibilidad y la innovación.
+### En conclusión
+
+Este proyecto busca brindar una solución práctica y escalable al problema del desperdicio de plástico de Impresión 3D, generando nuevas oportunidades en el ámbito del diseño y la fabricación local. Este enfoque promueve la creatividad, el reciclaje responsable y el uso eficiente de recursos, alineándose con los principios de la sostenibilidad y la innovación.
 
 ## Resultados y discusión
 
