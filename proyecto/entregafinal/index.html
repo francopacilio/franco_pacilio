@@ -767,6 +767,33 @@
     Monitoreo de condiciones
   </a>
   
+    <nav class="md-nav" aria-label="Monitoreo de condiciones">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#componentes" class="md-nav__link">
+    Componentes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funcionamiento" class="md-nav__link">
+    Funcionamiento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#datos-recaudados" class="md-nav__link">
+    Datos recaudados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -1028,6 +1055,33 @@
     Monitoreo de condiciones
   </a>
   
+    <nav class="md-nav" aria-label="Monitoreo de condiciones">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#componentes" class="md-nav__link">
+    Componentes
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#funcionamiento" class="md-nav__link">
+    Funcionamiento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#datos-recaudados" class="md-nav__link">
+    Datos recaudados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -1198,7 +1252,7 @@
 <p>● Soportes: Estructuras auxiliares utilizadas para sostener partes de una impresión 3D durante el proceso, que luego se eliminan.</p>
 <p><img alt="" src="../../images/PFI03/SOPORTES.png" /></p>
 <p>● Impresiones fallidas: Piezas incompletas o defectuosas generadas por errores en la impresión, como mala adhesión o interrupciones.</p>
-<p><img alt="" src="../images/PFI03/FALLIDA.jpg" /></p>
+<p><img alt="" src="../../images/PFI03/FALLIDA.jpeg" /></p>
 <p>● Pruebas de impresión: Objetos fabricados para ajustar configuraciones y tolerancias o evaluar el rendimiento de la impresora.</p>
 <p><img alt="" src="../../images/PFI03/PRUEBA.jpg" /></p>
 <p>● Sobrantes de filamentos: Fragmentos o extremos de filamentos que no pueden ser utilizados en nuevas impresiones debido a su longitud limitada.</p>
@@ -1215,6 +1269,20 @@
 <p><img alt="" src="../../images/PFI03/PICADOFINO.jpeg" /></p>
 <h3 id="monitoreo-de-condiciones">Monitoreo de condiciones<a class="headerlink" href="#monitoreo-de-condiciones" title="Permanent link">&para;</a></h3>
 <p>Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.</p>
+<p><img alt="" src="../../images/PFI03/MONITOREO.jpeg" /></p>
+<h4 id="componentes">Componentes<a class="headerlink" href="#componentes" title="Permanent link">&para;</a></h4>
+<p>● Placa electrónica Arduino UNO</p>
+<p>● Pantalla LED 16X02 con Módulo I2C</p>
+<p>● Sensor de Temperatura y Humedad DHT11</p>
+<p>● Breadboard</p>
+<p>● Cables conectores</p>
+<p><img alt="" src="../../images/PFI03/CIRCUITO.png" /></p>
+<h4 id="funcionamiento">Funcionamiento<a class="headerlink" href="#funcionamiento" title="Permanent link">&para;</a></h4>
+<p>Este sistema monitorea en tiempo real la temperatura y la humedad dentro de una bolsa hermética que contiene el material triturado (picadillo) destinado a la fabricación de placas en la máquina de sublimación. Se compone de un sensor DHT11, un Arduino Uno y un display LCD 16x2 con interfaz I2C, integrados mediante cables extendidos para ubicar el sensor dentro de la bolsa sin comprometer el aislamiento hermético.</p>
+<p><img alt="" src="../../images/PFI03/FUNCIONAMIENTO.jpeg" /></p>
+<p><a href="https://drive.google.com/file/d/1--ZE-HsUKXdq4RrwqzampE0_MwfZQ1nH/view?usp=sharing">Link de descarga del archivo de código para Arduino IDE</a></p>
+<h4 id="datos-recaudados">Datos recaudados<a class="headerlink" href="#datos-recaudados" title="Permanent link">&para;</a></h4>
+<p>Los datos recaudados a partir del monitoreo del picadillo de PLA dentro de la bolsa hermética indican un promedio de 65% de humedad relativa y una temperatura de 27 °C. Estos valores reflejan tanto las condiciones internas del material como la influencia directa del clima de Uruguay, que se caracteriza por niveles de humedad ambiental elevados. Esta información es fundamental para evaluar la necesidad de un pretratamiento del material, ya que el PLA es un material higroscópico cuya calidad puede verse afectada negativamente por la absorción excesiva de humedad. Estos datos permiten ajustar el proceso de preparación del picadillo para garantizar su adecuado desempeño en la máquina de sublimación.</p>
 <h3 id="maquina-de-fundicion-y-moldeo">Máquina de Fundición y Moldeo<a class="headerlink" href="#maquina-de-fundicion-y-moldeo" title="Permanent link">&para;</a></h3>
 <p>Se coloca una lámina de teflón reforzada con fibra de vidrio en la base de la máquina de sublimación, seguida de la colocación de un marco metálico centrado sobre ella. El interior del marco se rellena con el picadillo triturado previamente procesado. Luego, se coloca una segunda lámina de teflón con fibra de vidrio sobre el material, y todo el conjunto se prensa utilizando la estructura superior de la máquina. Tras el tiempo requerido para la sublimación, se abre la máquina y se voltea el marco para repetir el prensado, asegurando un acabado uniforme en ambos lados del material.</p>
 <p>El tiempo de sublimación varía según factores como la cantidad de material, las dimensiones del marco y la temperatura empleada. En este proceso, se utiliza un marco de 340x220x15 mm, trabajando a una temperatura de 170 °C, con un tiempo estimado de prensado de entre 5 y 7 minutos por cada lado. Este método asegura que el material se funda de manera uniforme, adopte la forma deseada y garantice un producto final con alta resistencia y calidad.</p>
@@ -1283,7 +1351,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 16, 2024</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 17, 2024</span>
     
   </small>
 </div>
