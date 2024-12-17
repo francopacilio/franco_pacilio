@@ -343,11 +343,18 @@ Luego de múltiples pruebas de encastres y tolerancias, se identificó que las v
 
 ![](../images/PFI03/ENCASTRES.jpg)
 
-Estas placas resultan ideales para aplicaciones donde la precisión dimensional extrema no sea crítica y donde se busque aprovechar su estética única y el hecho de ser un material reciclado. Algunas posibles aplicaciones incluyen:
+Estas placas resultan ideales para aplicaciones donde la precisión dimensional extrema no sea crítica y donde se busque aprovechar su estética única y el hecho de ser un material reciclado.
+
+![](../images/PFI03/TEXTURA.jpeg)
+![](../images/PFI03/TEXTURA2.jpg)
+
+ Algunas posibles aplicaciones incluyen:
 
 ● *Artículos de decoración:* cuadros, lámparas, adornos geométricos y elementos ornamentales donde las ligeras imperfecciones se integran como parte del diseño, otorgando un toque artesanal y único.
 
 ● *Posavasos y bandejas:* productos funcionales que destacan tanto por su colorido como por su origen reciclado, añadiendo un valor visual y conceptual interesante.
+
+![](../images/PFI03/POSAVASOSV2.png)
 
 ● *Maquetas y prototipos visuales:* especialmente en proyectos donde la alta precisión no sea imprescindible, pero se requiera un material accesible y sostenible.
 
@@ -414,28 +421,6 @@ El proyecto "EcoPlaca 3D" demostró que es posible reciclar desechos plásticos 
 ● Termoformado: Proceso de modelado de plásticos a través del calor para darles forma.</br>
 
 ● Precious Plastics: Iniciativa global de código abierto que promueve el reciclaje de plásticos a pequeña escala.</br>
-
-## Bibliografía
-
-● Kreiger, M. (2019). Precious Plastics: Recycling Plastics with Open-Source Technology. [PDF]. Precious Plastics. Recuperado de: https://preciousplastics.com
-
-● Bocken, N. M. P., de Pauw, I., Bakker, C., & Van der Grinten, B. (2016). Product design and business model strategies for a circular economy. Journal of Industrial Ecology, 20(3), 383–397. https://doi.org/10.1111/jiec.12259
-
-● Moreno, M., Chiaroni, D., & del Río, P. (2016). Towards a Circular Economy: A SWOT Analysis of the Circular Economy at the Micro-Enterprise Level. Journal of Cleaner Production, 135, 983–994. https://doi.org/10.1016/j.jclepro.2016.07.033
-
-● Tuck, C., & Hague, R. (2014). The Role of Additive Manufacturing in the Circular Economy. Additive Manufacturing & 3D Printing, 1(1), 16–23. https://doi.org/10.1080/25734988.2014.1091807
-
-● ISO 14021:2016. Environmental labels and declarations — Self-declared environmental claims (Type II environmental labeling). International Organization for Standardization.
-
-● Schmidt-Bleek, F. (1994). Wieviel Umwelt braucht der Mensch? MIPS – das Maß für ökologisches Wirtschaften. Birkhäuser Verlag.
-
-● Thompson, R. C., Moore, C. J., Vom Saal, F. S., & Swan, S. H. (2009). Plastics, the environment and human health: current consensus and future trends. Philosophical Transactions of the Royal Society B: Biological Sciences, 364(1526), 2153–2166. https://doi.org/10.1098/rstb.2009.0053
-
-● Kunz, N., & Morell, A. (2018). Recycling Plastics: Challenges and Opportunities for Sustainable Manufacturing. Journal of Cleaner Production, 172, 2446–2457. https://doi.org/10.1016/j.jclepro.2017.10.179
-
-● Bakker, C., & Jiang, Y. (2014). Designing the Circular Economy: From Waste to Resources. Technological Innovation for Sustainability, 1(2), 111–123. https://doi.org/10.1016/j.techsoc.2014.01.002
-
-● Meadows, D. H., Randers, J., & Meadows, D. L. (2004). Limits to Growth: The 30-Year Update. Chelsea Green Publishing.
 
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
