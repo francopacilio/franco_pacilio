@@ -345,8 +345,12 @@ Luego de múltiples pruebas de encastres y tolerancias, se identificó que las v
 
 Estas placas resultan ideales para aplicaciones donde la precisión dimensional extrema no sea crítica y donde se busque aprovechar su estética única y el hecho de ser un material reciclado.
 
+Muestrario de texturas:
+
 ![](../images/PFI03/TEXTURA.jpeg)
 ![](../images/PFI03/TEXTURA2.jpg)
+![](../images/PFI03/TEXTURA3.jpeg)
+![](../images/PFI03/TEXTURA4.jpeg)
 
  Algunas posibles aplicaciones incluyen:
 
@@ -362,7 +366,11 @@ Estas placas resultan ideales para aplicaciones donde la precisión dimensional 
 
 ● *Carcasas y elementos decorativos:* para dispositivos o accesorios donde el valor estético y la narrativa del reciclaje primen sobre la precisión dimensional.
 
+![](../images/PFI03/PHONESTANDV2.png)
+
 ● *Artículos personalizados:* productos como llaveros, soportes simples y organizadores, donde el uso del corte láser permite destacar la versatilidad del material.
+
+![](../images/PFI03/MACKEYV2.png)
 
 A pesar de las limitaciones técnicas, el acabado superficial único, los colores interesantes y el valor simbólico asociado a la reutilización de plásticos reciclados convierten a estas placas en una excelente opción para proyectos creativos, decorativos y funcionales, alineados con los principios de la economía circular y el diseño sostenible.
 
