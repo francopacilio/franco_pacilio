@@ -218,7 +218,17 @@ Aunque la máquina de sublimación no es una herramienta especializada para el r
 
 ### Desmoldeo y enfriado
 
-Se retira el conjunto completo de la máquina de sublimación y se coloca en un lugar adecuado para que el material se enfríe a temperatura ambiente. Una vez que el plástico ha alcanzado una temperatura segura, se utiliza una trincheta para repasar cuidadosamente los bordes del marco, lo que facilita la extracción de la plancha sin comprometer su integridad. Este procedimiento es crucial para prevenir daños en el producto final y garantizar que conserve la forma y calidad deseadas, manteniendo así la uniformidad y funcionalidad de la placa reciclada.
+Se retira el conjunto completo de la máquina de sublimación y se coloca sobre una superficie plana para permitir que el material se enfríe de manera natural a temperatura ambiente. Es importante situar un peso plano y uniforme sobre la superficie del material con el fin de evitar deformaciones o fisuras causadas por las contracciones y expansiones que ocurren durante el proceso de enfriamiento. 
+
+![](../images/PFI03/PESOPLANO.jpeg)
+
+Una vez que el plástico ha alcanzado una temperatura segura, se utiliza una trincheta para repasar cuidadosamente los bordes del marco, lo que facilita la extracción de la plancha sin comprometer su integridad. Este procedimiento es crucial para prevenir daños en el producto final y garantizar que conserve la forma y calidad deseadas.
+
+![](../images/PFI03/BORDESMARCO.jpeg)
+
+Una vez retirada la plancha del marco, generalmente quedan algunos excedentes de plástico que deben recortarse utilizando una trincheta y una regla metálica. Estos excedentes suelen estar predefinidos por el contorno del propio marco, lo que facilita su remoción. Basta con realizar un ligero corte con la trincheta siguiendo la línea marcada y, al aplicar una leve presión, la aleta sobrante se desprende fácilmente.
+
+![](../images/PFI03/PLANCHACONBORDES.jpeg)
 
 ## Procesos utilizados
 
