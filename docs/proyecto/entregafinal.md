@@ -335,7 +335,31 @@ Cabe destacar que estos parámetros pueden variar según la marca y modelo de la
 
 ## Posibles aplicaciones del material
 
-*ejemplos de usos de las placas*
+Estas placas pueden ser utilizadas de múltiples maneras, dependiendo en gran medida del objetivo, la creatividad y la innovación de cada usuario. A continuación, se profundiza en algunos caminos y posibilidades de uso para este material, con un enfoque particular en diseños realizados mediante corte láser.
+
+### Diseños laminares
+
+Luego de múltiples pruebas de encastres y tolerancias, se identificó que las variaciones en el espesor del material reciclado (±0,25 mm) y su retracción natural generan dificultades para lograr ajustes precisos y funcionales. La tolerancia ideal encontrada fue de 0,6 mm, lo que permitió mejorar notablemente el ajuste, aunque no resolvió por completo los problemas. Las deformaciones e irregularidades del material limitan su aplicación en diseños que requieran alta precisión dimensional, resaltando la necesidad de optimizar la homogeneidad en la fabricación de las placas. Como alternativa, se propone explorar productos donde las cualidades estéticas del material reciclado se consideren un valor agregado, destacando su carácter único por encima de la precisión dimensional.
+
+![](../images/PFI03/ENCASTRES.jpg)
+
+Estas placas resultan ideales para aplicaciones donde la precisión dimensional extrema no sea crítica y donde se busque aprovechar su estética única y el hecho de ser un material reciclado. Algunas posibles aplicaciones incluyen:
+
+● *Artículos de decoración:* cuadros, lámparas, adornos geométricos y elementos ornamentales donde las ligeras imperfecciones se integran como parte del diseño, otorgando un toque artesanal y único.
+
+● *Posavasos y bandejas:* productos funcionales que destacan tanto por su colorido como por su origen reciclado, añadiendo un valor visual y conceptual interesante.
+
+● *Maquetas y prototipos visuales:* especialmente en proyectos donde la alta precisión no sea imprescindible, pero se requiera un material accesible y sostenible.
+
+● *Juguetes y puzzles decorativos:* piezas simples sin encastres ajustados, donde los colores y acabados “tie-dye” aportan una estética distintiva.
+
+● *Carcasas y elementos decorativos:* para dispositivos o accesorios donde el valor estético y la narrativa del reciclaje primen sobre la precisión dimensional.
+
+● *Artículos personalizados:* productos como llaveros, soportes simples y organizadores, donde el uso del corte láser permite destacar la versatilidad del material.
+
+A pesar de las limitaciones técnicas, el acabado superficial único, los colores interesantes y el valor simbólico asociado a la reutilización de plásticos reciclados convierten a estas placas en una excelente opción para proyectos creativos, decorativos y funcionales, alineados con los principios de la economía circular y el diseño sostenible.
+
+![](../images/PFI03/MUESTRAFINAL.jpg)
 
 ## Propuesta de valor
 
