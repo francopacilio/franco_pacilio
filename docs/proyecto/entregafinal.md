@@ -359,7 +359,7 @@ Estas placas resultan ideales para aplicaciones donde la precisión dimensional 
 
 A pesar de las limitaciones técnicas, el acabado superficial único, los colores interesantes y el valor simbólico asociado a la reutilización de plásticos reciclados convierten a estas placas en una excelente opción para proyectos creativos, decorativos y funcionales, alineados con los principios de la economía circular y el diseño sostenible.
 
-![](../images/PFI03/MUESTRAFINAL.jpg)
+![](../images/PFI03/MUESTRAFINAL.jpeg)
 
 ## Propuesta de valor
 
