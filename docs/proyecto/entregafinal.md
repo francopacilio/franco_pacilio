@@ -114,7 +114,7 @@ En contraste, materiales como el ABS reciclado tienden a fundirse nuevamente dur
 
 ● Impresiones fallidas: Piezas incompletas o defectuosas generadas por errores en la impresión, como mala adhesión o interrupciones.
 
-![](../images/PFI03/FALLIDA.jpg)
+![](../images/PFI03/FALLIDA.jpeg)
 
 ● Pruebas de impresión: Objetos fabricados para ajustar configuraciones y tolerancias o evaluar el rendimiento de la impresora.
 
@@ -147,6 +147,34 @@ Este proceso de refinamiento es esencial para garantizar que el material esté e
 ### Monitoreo de condiciones
 
 Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.
+
+![](../images/PFI03/MONITOREO.jpeg)
+
+#### Componentes
+
+● Placa electrónica Arduino UNO
+
+● Pantalla LED 16X02 con Módulo I2C
+
+● Sensor de Temperatura y Humedad DHT11
+
+● Breadboard
+
+● Cables conectores
+
+![](../images/PFI03/CIRCUITO.png)
+
+#### Funcionamiento
+
+Este sistema monitorea en tiempo real la temperatura y la humedad dentro de una bolsa hermética que contiene el material triturado (picadillo) destinado a la fabricación de placas en la máquina de sublimación. Se compone de un sensor DHT11, un Arduino Uno y un display LCD 16x2 con interfaz I2C, integrados mediante cables extendidos para ubicar el sensor dentro de la bolsa sin comprometer el aislamiento hermético.
+
+![](../images/PFI03/FUNCIONAMIENTO.jpeg)
+
+[Link de descarga del archivo de código para Arduino IDE](https://drive.google.com/file/d/1--ZE-HsUKXdq4RrwqzampE0_MwfZQ1nH/view?usp=sharing)
+
+#### Datos recaudados
+
+Los datos recaudados a partir del monitoreo del picadillo de PLA dentro de la bolsa hermética indican un promedio de 65% de humedad relativa y una temperatura de 27 °C. Estos valores reflejan tanto las condiciones internas del material como la influencia directa del clima de Uruguay, que se caracteriza por niveles de humedad ambiental elevados. Esta información es fundamental para evaluar la necesidad de un pretratamiento del material, ya que el PLA es un material higroscópico cuya calidad puede verse afectada negativamente por la absorción excesiva de humedad. Estos datos permiten ajustar el proceso de preparación del picadillo para garantizar su adecuado desempeño en la máquina de sublimación.
 
 ### Máquina de Fundición y Moldeo
 
