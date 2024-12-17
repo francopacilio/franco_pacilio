@@ -282,6 +282,20 @@ Durante el desarrollo de este proyecto, logré obtener cuatro ejemplares de plac
 ● *Plancha:* 230x130x2,5mm<br>
 ● *Peso final:* 120 gramos<br>
 
+### Conclusiones
+
+Encontramos que, tanto para marcos de 400x300x2,5 mm como de 400x300x1,5 mm, la temperatura y el tiempo de sublimación óptimos son 180°C durante 10 minutos por lado. Este tiempo adicional permite que el material se funda, se aplane y se distribuya de manera uniforme sobre el molde. Es fundamental aplicar la máxima presión posible en la máquina sublimadora, asegurándose de que ambas caras de la sublimadora queden paralelas entre sí y con una separación acorde al espesor del marco.
+
+Por otro lado, es importante colocar material picado en exceso antes de iniciar el proceso de fundición. De no hacerlo, el material fundido podría no alcanzar a rellenar completamente el marco, dejando espacios vacíos, como ocurrió en el ejemplar número 2.
+
+Otro aspecto crucial para el acabado final es el secado. En el ejemplar número 2, no se colocó un peso plano sobre el material cuando aún estaba caliente, lo que provocó irregularidades significativas en la superficie final.
+
+El material del marco debe ser metálico para evitar que el plástico se adhiera excesivamente y facilitar el desmoldeado. Además, el uso de materiales menos rígidos, como el MDF, no es recomendable, ya que tiende a expandirse y deformarse con el calor, provocando que la plancha no tenga bordes rectos, como se observó en el ejemplar número 4.
+
+A pesar de los esfuerzos, no fue posible lograr una plancha completamente homogénea en su espesor, registrándose variaciones de ±0,25 mm (por ejemplo, en una plancha de 2,5 mm, algunas zonas alcanzaron 2,75 mm, mientras que otras midieron 2,35 mm). Esto podría atribuirse a la viscosidad limitada del PLA en su estado de fusión, que a 180°C se encuentra en un rango aproximado de 2000 a 2500 Pa·s (pascales-segundo, unidad que mide la resistencia de un material a fluir), lo que dificulta su fluidez y distribución uniforme dentro del molde. Además, el PLA presenta una contracción térmica de alrededor de 0,3% a 0,5% durante el enfriamiento, lo cual genera ligeras ondulaciones en el acabado de la placa.
+
+Estas variaciones y deformaciones pueden minimizarse mediante un control más preciso de la temperatura, la presión y el tiempo de enfriado durante el proceso de fabricación. Para corregirlas, se puede recurrir a un proceso de acabado final con maquinaria adecuada que garantice una mayor uniformidad en el espesor. Entre los métodos industriales, se recomienda el uso de una rectificadora o una calibradora de rodillo. De forma manual, es posible emplear una lijadora orbital o una lijadora de banda para nivelar la superficie de las planchas.
+
 ## Procesos de fabricación digital utilizados
 
 Se aplican tecnologías de fabricación aditiva, como la impresión 3D, que actúa como generadora de residuos utilizados como materia prima, y de fabricación sustractiva, como el corte láser, para el corte de marcos y el procesamiento de materiales reciclados.
