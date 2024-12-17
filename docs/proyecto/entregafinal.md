@@ -356,6 +356,8 @@ Muestrario de texturas:
 
 ● *Artículos de decoración:* cuadros, lámparas, adornos geométricos y elementos ornamentales donde las ligeras imperfecciones se integran como parte del diseño, otorgando un toque artesanal y único.
 
+![](../images/PFI03/WALLCLOCKFINAL.png)
+
 ● *Posavasos y bandejas:* productos funcionales que destacan tanto por su colorido como por su origen reciclado, añadiendo un valor visual y conceptual interesante.
 
 ![](../images/PFI03/POSAVASOSV2.png)
@@ -378,21 +380,35 @@ A pesar de las limitaciones técnicas, el acabado superficial único, los colore
 
 ## Propuesta de valor
 
-EcoPlaca 3D ofrece una solución innovadora y sostenible para transformar los desechos plásticos generados por la impresión 3D en placas funcionales reutilizables. Este proyecto promueve la economía circular mediante el reciclaje de plásticos, reduciendo el impacto ambiental y proporcionando un material útil para diseñadores, makers y emprendedores.
+EcoPlaca 3D presenta una solución innovadora y sostenible que transforma los desechos plásticos generados por la impresión 3D en placas funcionales y reutilizables. Este proyecto fomenta la economía circular, reduciendo el impacto ambiental al dar una segunda vida a materiales que, de otro modo, terminarían como residuos. Las placas resultantes ofrecen un material versátil y accesible para diseñadores, makers y emprendedores, impulsando prácticas sostenibles en el ámbito local.
 
 Los valores clave de la propuesta incluyen:
 
-● Reciclaje funcional: Placas reutilizables de alta calidad a partir de desechos plásticos.
+### Reciclaje funcional
 
-● Diseño único: Acabado "tie-dye" que resalta el reciclaje.
+Fabricación de placas reutilizables de alta calidad a partir de desechos plásticos de impresión 3D, aportando durabilidad y utilidad en diversas aplicaciones.
 
-● Sostenibilidad: Contribución activa a la economía circular.
+### Diseño único
 
-● Accesibilidad: Solución práctica y económica, fácil de replicar.
+Cada placa presenta un acabado “tie-dye” que celebra la estética del reciclaje a través de patrones de colores únicos e irrepetibles. Estas combinaciones pueden ser seleccionadas y adaptadas según las necesidades y propuestas de distintos productos, brindando un valor visual diferenciado.
 
-● Innovación responsable: Integración de tecnologías como el corte láser y termoformado.
+### Sostenibilidad
 
-En conjunto, EcoPlaca 3D proporciona una respuesta práctica al desperdicio plástico y abre nuevas oportunidades en el diseño y fabricación sostenible.
+EcoPlaca 3D contribuye activamente a la economía circular, al disminuir la generación de residuos plásticos provenientes de la impresión 3D. Esta iniciativa promueve la responsabilidad ambiental y el uso eficiente de los recursos disponibles.
+
+### Accesibilidad
+
+La solución se destaca por ser práctica y económica, permitiendo su replicabilidad con herramientas y tecnologías locales. A diferencia de sistemas complejos como Precious Plastics, EcoPlaca 3D no requiere grandes inversiones de tiempo ni maquinaria costosa, facilitando su adopción en contextos con recursos limitados.
+
+### Innovación contextualizada
+
+Innovar no se limita a crear algo nuevo, sino también a adaptar soluciones existentes a un contexto donde aún no están implementadas. En Uruguay, no existe un sistema de gestión de reciclaje ni guías que indiquen cómo reutilizar los desechos plásticos de impresión 3D de manera práctica y eficiente. EcoPlaca 3D responde a esta necesidad, utilizando herramientas accesibles para transformar residuos en materiales funcionales.
+
+### Integración tecnológica 
+
+El proyecto integra tecnologías modernas y accesibles, como el corte láser, para procesar las placas con precisión y calidad. Esta incorporación tecnológica potencia el valor del material reciclado y abre posibilidades en el diseño y fabricación sostenible.
+
+En conjunto, EcoPlaca 3D proporciona una solución práctica y escalable al problema del desperdicio plástico, generando nuevas oportunidades en el ámbito del diseño y la fabricación local. Este enfoque promueve la creatividad, el reciclaje responsable y el uso eficiente de recursos, alineándose con los principios de la sostenibilidad y la innovación.
 
 ## Resultados y discusión
 
