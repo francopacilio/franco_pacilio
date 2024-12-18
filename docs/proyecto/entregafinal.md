@@ -4,7 +4,7 @@ Desarrollo de un modelo de reciclaje de plásticos provenientes de desechos de i
 
 ## Resumen
 
-El proyecto "EcoPlaca 3D" aborda la problemática ambiental generada por los desechos plásticos provenientes de la impresión 3D, transformándolos en placas funcionales mediante el uso de tecnologías de fabricación digital y promoviendo la economía circular. En Uruguay, el crecimiento exponencial en el uso, la comercialización y la adopción de tecnologías de impresión 3D por parte de negocios locales, emprendedores y grandes empresas ha incrementado la generación de residuos plásticos, evidenciando la necesidad urgente de implementar soluciones sostenibles. Actualmente, no existen iniciativas en el país que ofrezcan una segunda vida a estos materiales, mucho menos orientadas a su conversión en placas funcionales.
+En Uruguay, el crecimiento exponencial en el uso, la comercialización y la adopción de tecnologías de impresión 3D por parte de negocios locales, emprendedores y grandes empresas ha incrementado la generación de residuos plásticos, evidenciando la necesidad urgente de implementar soluciones sostenibles. Actualmente, no existen iniciativas en el país que ofrezcan una segunda vida a estos materiales, mucho menos orientadas a su conversión en placas funcionales.
 
 Este trabajo presenta el diseño, desarrollo y fabricación de un sistema que permite reciclar los residuos plásticos generados por la impresión 3D, transformándolos en un material práctico, funcional y con valor estético. Se describen las metodologías aplicadas, los materiales y componentes utilizados, así como las preguntas clave abordadas a lo largo del proceso. El resultado es una solución innovadora, sostenible y accesible, dirigida a diseñadores, makers y emprendedores, con un modelo adaptado a las necesidades y herramientas locales, pero con potencial de replicabilidad a nivel global.
 
@@ -96,6 +96,8 @@ El proceso esencialmente consta de cinco pasos: selección de plásticos, tritur
 
 El primer paso es seleccionar cuidadosamente los desechos de impresión 3D con dimensiones y densidad adecuadas para la trituradora, asegurando su óptimo funcionamiento. Los fragmentos deben medir, como máximo, 2 a 3 centímetros cúbicos, lo que permite procesarlos eficientemente sin sobrecargar la máquina. Se utilizarán principalmente desechos de PLA y PLA+, ya que este material es universalmente el más utilizado en impresión 3D.
 
+![](../images/PFI03/MIXTOSR2.jpg)
+
 #### PLA
 
 El PLA (ácido poliláctico) es un termoplástico biodegradable derivado de recursos renovables, conocido por su facilidad de uso en impresión 3D y su baja temperatura de fusión, alrededor de 173°C. 
@@ -162,7 +164,7 @@ Este proceso de refinamiento es esencial para garantizar que el material esté e
 
 ### Monitoreo de condiciones
 
-Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite establecer parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.
+Se emplea un sistema basado en Arduino y sensores específicos para medir y controlar las condiciones de temperatura y humedad del material reciclado antes de su fundición. Este enfoque permite determinar parámetros precisos que garantizan la consistencia y calidad del proceso, aportando fiabilidad técnica y trazabilidad. Al monitorear estas variables en tiempo real, se asegura que la metodología de fabricación de las placas sea replicable bajo circunstancias definidas, optimizando así la uniformidad del producto final y facilitando su integración en procesos estandarizados.
 
 ![](../images/PFI03/MONITOREO.jpeg)
 
@@ -298,7 +300,7 @@ Durante el desarrollo de este proyecto, logré obtener cuatro ejemplares de plac
 ● *Plancha:* 230x130x2,5mm<br>
 ● *Peso final:* 120 gramos<br>
 
-### Conclusiones
+### Conclusiones de las planchas
 
 Encontramos que, tanto para marcos de 400x300x2,5 mm como de 400x300x1,5 mm, la temperatura y el tiempo de sublimación óptimos son 180°C durante 10 minutos por lado. Este tiempo adicional permite que el material se funda, se aplane y se distribuya de manera uniforme sobre el molde. Es fundamental aplicar la máxima presión posible en la máquina sublimadora, asegurándose de que ambas caras de la sublimadora queden paralelas entre sí y con una separación acorde al espesor del marco.
 
@@ -334,7 +336,7 @@ Además, como se mencionó anteriormente, la rápida solidificación y la baja c
 
 ![](../images/PFI03/CORTELASER.jpg)
 
-#### Conclusiones
+#### Conclusiones de los cortes
 
 Se realizaron múltiples pruebas de corte, durante las cuales se ajustaron los parámetros de velocidad y potencia de la máquina de corte láser. El objetivo fue evaluar y optimizar dichos parámetros para lograr cortes rectos y precisos, evitando el sobrecalentamiento del material y asegurando que las piezas se desprendan fácilmente sin que el láser invada o dañe el material circundante.
 
@@ -347,7 +349,9 @@ Los parámetros finales son:
 ● *Cut PWR (Potencia de corte):* 40%<br>
 ● *Turn PWR (Potencia de encendido):* 40%<br>
 
-Cabe destacar que estos parámetros pueden variar según la marca y modelo de la cortadora láser, la potencia del láser, el tipo de máquina utilizada, el mantenimiento realizado y el estado de sus componentes. Estos factores influyen directamente en la precisión del corte final, por lo que, en otro contexto, será casi seguro necesario realizar ajustes adicionales a estos parámetros.
+Cabe destacar que estos parámetros pueden variar según la marca y modelo de la cortadora láser, la potencia del láser, el tipo de máquina utilizada, el mantenimiento realizado y el estado de sus componentes. Los cortes también se verán afectados por el espesor de la plancha, los materiales que la compongan y las condiciones de humedad bajo las que se fabricó.
+
+Estos factores influyen directamente en la precisión del corte final, por lo que, dependiendo de la situación, será casi seguro necesario realizar ajustes adicionales a estos parámetros.
 
 ## Posibles aplicaciones del material
 
@@ -456,7 +460,7 @@ Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio c
 
 ● El proceso de reciclaje logró producir placas funcionales con propiedades físicas y estéticas destacadas.
 
-● El sistema de monitoreo basado en Arduino permitió estandarizar condiciones de temperatura y humedad.
+● El sistema de monitoreo basado en Arduino permitió relevar e identificar mejoras en las condiciones de humedad y temperatura para su estandarización.
 
 ● La integración de tecnologías como el corte láser amplió las posibilidades de uso del material reciclado.
 
@@ -466,7 +470,7 @@ Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio c
 
 ### Lo que No Funcionó:
 
-● No fue posible determinar los valores óptimos de temperatura y humedad para el PLA y PLA+ durante este proceso. Esto se debe a la ausencia de un componente específico que permita secar y controlar las condiciones ambientales del material previo a su procesamiento. Contar con un sistema de secado controlado sería fundamental para garantizar la calidad y estabilidad del material, dado que la humedad excesiva en el PLA puede afectar su viscosidad, fluidez y, en consecuencia, la uniformidad del producto final.
+● No fue posible utilizar los valores óptimos de temperatura y humedad para el PLA y PLA+ durante este proceso. Esto se debe a la ausencia de un componente específico que permita secar y controlar las condiciones ambientales del material previo a su procesamiento. Contar con un sistema de secado controlado sería fundamental para garantizar la calidad y estabilidad del material, dado que la humedad excesiva en el PLA puede afectar su viscosidad, fluidez y, en consecuencia, la uniformidad del producto final.
 
 ● Los parámetros de tiempo, temperatura y cantidad de material en la máquina de sublimación durante la fase de fundición y moldeo, aún requieren ajustes adicionales para mejorar la uniformidad del grosor de las placas y minimizar las deformaciones en las superficies. Optimizar estos factores es esencial para obtener un producto final más consistente y de mayor calidad, evitando variaciones en el espesor y ondulaciones que afectan el acabado superficial y las propiedades funcionales del material reciclado.
 
@@ -493,14 +497,6 @@ Aunque el proyecto logró resultados positivos, se identificaron áreas de mejor
 EcoPlaca 3D ofrece una solución práctica y escalable al problema del desperdicio de plásticos de impresión 3D, abriendo nuevas oportunidades en diseño y fabricación local. Además, fomenta la creatividad, el reciclaje responsable y el uso eficiente de recursos, alineándose con los principios de la economía circular y la sostenibilidad.
 
 A través de lineamientos técnicos claros para trabajar con materiales como PLA y PLA+, el proyecto facilita su implementación tanto en talleres propios como en espacios colaborativos, proporcionando una base sólida para que más personas puedan adoptar este enfoque y explorar sus posibilidades. Esto refuerza su valor como una herramienta de innovación accesible, que inspira a la comunidad a abordar el reciclaje desde una perspectiva práctica y creativa.
-
-## Glosario
-
-● Economía Circular: Modelo de producción y consumo que promueve la reutilización, el reciclaje y la reducción de residuos.</br>
-
-● Fabricación Aditiva: Proceso de creación de objetos mediante la adición de capas sucesivas de material.</br>
-
-● Precious Plastics: Iniciativa global de código abierto que promueve el reciclaje de plásticos a pequeña escala.</br>
 
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
