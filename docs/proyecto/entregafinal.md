@@ -432,12 +432,6 @@ Este espacio cuenta con un taller de co-working equipado con una trituradora de 
 
 Sin embargo, dado que La Fábrica Makerspace no se especializa en el reciclaje de plásticos provenientes de la impresión 3D, como el PLA y el PLA+, desconocen los parámetros, limitaciones, aplicaciones y criterios específicos que han sido investigados y desarrollados en este proyecto. Es aquí donde la información generada por EcoPlaca 3D adquiere un valor fundamental, al proporcionar lineamientos técnicos detallados para trabajar con estos materiales. Esto no solo asegura resultados eficientes y de calidad, sino que también incentiva a otros diseñadores, makers y emprendedores a incursionar en estos procesos, demostrando que obtener productos reciclados funcionales está al alcance de la mano.
 
-### En conclusión
-
-EcoPlaca 3D busca brindar una solución práctica y escalable al problema del desperdicio de plásticos de impresión 3D, transformándolos en materiales funcionales y estéticamente atractivos. El proyecto genera nuevas oportunidades en el ámbito del diseño y la fabricación local, al tiempo que promueve la creatividad, el reciclaje responsable y el uso eficiente de recursos.
-
-A través de lineamientos técnicos claros para trabajar con PLA y PLA+, facilita su implementación en talleres propios o espacios colaborativos, alineándose con los principios de la sostenibilidad, la innovación y la economía circular.
-
 ## Resultados y discusión
 
 Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio camino para definir la temática final que se abordaría. A lo largo del proceso, surgieron preguntas y cuestionamientos que nos guiaron y ayudaron a estructurar estos proyectos. Algunas problemáticas fueron correctamente abordadas y obtuvieron resultados positivos, mientras que otras presentaron dificultades o quedaron parcialmente resueltas. A continuación, se destacan algunas de ellas:
@@ -482,11 +476,23 @@ Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio c
 
 ### Caminos a seguir
 
-*profundizar*
+● Manual instructivo: Un paso fundamental para este proyecto es utilizar toda la información recopilada para desarrollar un manual práctico e instructivo. Este debe ser claro, visual y accesible, y compartirlo con las comunidades locales de impresión 3D. El objetivo es que comprendan que existe una alternativa sostenible para sus desechos de impresión 3D y que se motiven a aprovecharlos en lugar de desecharlos.
+
+● Sistema circular de gestión de residuos: Es necesario seguir profundizando en el proceso, abordándolo desde una perspectiva de sistema circular de gestión de residuos plásticos. Visualizo un modelo ideal en el cual se establezca una red de recolección que involucre a makers, emprendedores, fablabs, facultades y empresas, todos actores que actualmente disponen de impresoras 3D generando residuos plásticos sin otorgarles una segunda vida útil.
+
+El objetivo sería recopilar estos desechos plásticos para fabricar placas recicladas, que luego puedan regresar a estos mismos actores como un material reutilizable. Estas placas podrían ser utilizadas en procesos de corte láser, o bien como materia prima para continuar innovando y desarrollando nuevos procesos que sean compatibles con ellas.
+
+Este sistema no solo promovería la reutilización eficiente de recursos, sino que también implicaría el desarrollo de un servicio integral de gestión, aprovechamiento y reutilización de los desechos plásticos de impresión 3D. Este servicio, además de contribuir al cuidado ambiental, debería estructurarse con un costo asociado que sustente las operaciones de recolección, transformación y distribución, asegurando su viabilidad económica y su escalabilidad a largo plazo.
 
 ## Conclusiones
 
-El proyecto "EcoPlaca 3D" demostró que es posible reciclar desechos plásticos de impresión 3D y transformarlos en un material funcional y reutilizable. El sistema es accesible, económico y aplicable a una variedad de usuarios, desde diseñadores hasta emprendedores. Sin embargo, se identificaron áreas de mejora en el control de la calidad del material reciclado y en la optimización de los procesos de fabricación.
+El proyecto "EcoPlaca 3D" demostró la viabilidad de reciclar desechos plásticos de impresión 3D para transformarlos en un material funcional, reutilizable y estéticamente atractivo. El sistema desarrollado es accesible, económico y adaptable a diferentes usuarios, incluyendo diseñadores, makers, emprendedores y pequeños negocios locales.
+
+Aunque el proyecto logró resultados positivos, se identificaron áreas de mejora en el control de la calidad del material reciclado y en la optimización de los procesos de fabricación, especialmente en lo relacionado con la uniformidad del grosor y las condiciones de fundición y moldeo.
+
+EcoPlaca 3D ofrece una solución práctica y escalable al problema del desperdicio de plásticos de impresión 3D, abriendo nuevas oportunidades en diseño y fabricación local. Además, fomenta la creatividad, el reciclaje responsable y el uso eficiente de recursos, alineándose con los principios de la economía circular y la sostenibilidad.
+
+A través de lineamientos técnicos claros para trabajar con materiales como PLA y PLA+, el proyecto facilita su implementación tanto en talleres propios como en espacios colaborativos, proporcionando una base sólida para que más personas puedan adoptar este enfoque y explorar sus posibilidades. Esto refuerza su valor como una herramienta de innovación accesible, que inspira a la comunidad a abordar el reciclaje desde una perspectiva práctica y creativa.
 
 ## Glosario
 
