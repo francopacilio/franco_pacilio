@@ -404,6 +404,16 @@ EcoPlaca 3D presenta una solución innovadora y sostenible que transforma los de
 
 Los valores clave de la propuesta incluyen:
 
+### Sostenibilidad
+
+Según un estudio realizado por National Geographic, entre el 5% y el 10% de todos los productos de impresión 3D terminan como desechos plásticos. Traducido a cifras prácticas, los pequeños emprendimientos o usuarios particulares de impresión 3D generan un rango aproximado de 1 a 5 kg de residuos plásticos al mes.
+
+A partir de las pruebas realizadas en este proyecto, confirmamos que estos desechos pueden transformarse en planchas de material funcional. Por ejemplo, con 5 kg de residuos al mes, es posible producir una plancha reciclada unificada con dimensiones finales de 1,250 mm x 1,250 mm x 2.5 mm. Esto evidencia el gran potencial de reutilización del material, mitigando el impacto ambiental y fomentando la economía circular.
+
+EcoPlaca 3D contribuye activamente a la sostenibilidad al reducir la generación de residuos plásticos provenientes de la impresión 3D. Esta iniciativa promueve la responsabilidad ambiental y el uso eficiente de los recursos, transformando desechos en oportunidades para diseñadores, makers y emprendedores.
+
+![](../images/PFI03/IMAGENIMPACTO.jpg)
+
 ### Reciclaje funcional
 
 Fabricación de placas reutilizables de alta calidad a partir de desechos plásticos de impresión 3D, aportando durabilidad y utilidad en diversas aplicaciones.
@@ -411,10 +421,6 @@ Fabricación de placas reutilizables de alta calidad a partir de desechos plást
 ### Diseño único
 
 Cada placa presenta un acabado “tie-dye” que celebra la estética del reciclaje a través de patrones de colores únicos e irrepetibles. Estas combinaciones pueden ser seleccionadas y adaptadas según las necesidades y propuestas de distintos productos, brindando un valor visual diferenciado.
-
-### Sostenibilidad
-
-EcoPlaca 3D contribuye activamente a la economía circular, al disminuir la generación de residuos plásticos provenientes de la impresión 3D. Esta iniciativa promueve la responsabilidad ambiental y el uso eficiente de los recursos disponibles.
 
 ### Accesibilidad
 
