@@ -484,11 +484,9 @@ Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio c
 
 ● No fue posible profundizar ni explorar de manera práctica las alternativas de uso del material reciclado. Si bien se plantearon propuestas y posibilidades de aplicación, acompañadas por representaciones gráficas, la falta de tiempo impidió llevar estas ideas a la materialización real. Este aspecto deja abierta la oportunidad de continuar con futuras iteraciones y pruebas, para validar y demostrar las aplicaciones concretas del material en distintos contextos de diseño y fabricación.
 
-● Uno de los puntos que considero más importantes de este proyecto es difundir esta información de manera clara, resumida, visual y accesible a la comunidad maker, de diseñadores, emprendedores y negocios locales. El objetivo es que esta información sirva como incentivo, mostrando las posibilidades del material reciclado y lo simple que puede resultar el proceso de transformación. Lamentablemente, debido a la falta de tiempo, no logré desarrollar un instructivo digital con estas características. No obstante, actualmente cuento con toda la información redactada y organizada en esta entrega, lo que representa una base sólida para su futura elaboración y difusión.
-
 ### Caminos a seguir
 
-● Manual instructivo: Un paso fundamental para este proyecto es utilizar toda la información recopilada para desarrollar un manual práctico e instructivo. Este debe ser claro, visual y accesible, y compartirlo con las comunidades locales de impresión 3D. El objetivo es que comprendan que existe una alternativa sostenible para sus desechos de impresión 3D y que se motiven a aprovecharlos en lugar de desecharlos.
+● Manual instructivo: Compartirlo con las comunidades locales de impresión 3D. El objetivo es que comprendan que existe una alternativa sostenible para sus desechos de impresión 3D y que se motiven a aprovecharlos en lugar de desecharlos.
 
 ● Sistema circular de gestión de residuos: Es necesario seguir profundizando en el proceso, abordándolo desde una perspectiva de sistema circular de gestión de residuos plásticos. Visualizo un modelo ideal en el cual se establezca una red de recolección que involucre a makers, emprendedores, fablabs, facultades y empresas, todos actores que actualmente disponen de impresoras 3D generando residuos plásticos sin otorgarles una segunda vida útil.
 
