@@ -480,6 +480,8 @@ Durante el desarrollo del proyecto, cada estudiante fue construyendo su propio c
 
 ● Los parámetros de tiempo, temperatura y cantidad de material en la máquina de sublimación durante la fase de fundición y moldeo, aún requieren ajustes adicionales para mejorar la uniformidad del grosor de las placas y minimizar las deformaciones en las superficies. Optimizar estos factores es esencial para obtener un producto final más consistente y de mayor calidad, evitando variaciones en el espesor y ondulaciones que afectan el acabado superficial y las propiedades funcionales del material reciclado.
 
+● No se logró explorar ni perfeccionar un proceso de pulido final que permitiera obtener un espesor uniforme en las chapas, utilizando maquinaria industrial o manual apropiada para garantizar una mayor precisión dimensional y calidad en el acabado. 
+
 ● No fue posible profundizar ni explorar de manera práctica las alternativas de uso del material reciclado. Si bien se plantearon propuestas y posibilidades de aplicación, acompañadas por representaciones gráficas, la falta de tiempo impidió llevar estas ideas a la materialización real. Este aspecto deja abierta la oportunidad de continuar con futuras iteraciones y pruebas, para validar y demostrar las aplicaciones concretas del material en distintos contextos de diseño y fabricación.
 
 ● Uno de los puntos que considero más importantes de este proyecto es difundir esta información de manera clara, resumida, visual y accesible a la comunidad maker, de diseñadores, emprendedores y negocios locales. El objetivo es que esta información sirva como incentivo, mostrando las posibilidades del material reciclado y lo simple que puede resultar el proceso de transformación. Lamentablemente, debido a la falta de tiempo, no logré desarrollar un instructivo digital con estas características. No obstante, actualmente cuento con toda la información redactada y organizada en esta entrega, lo que representa una base sólida para su futura elaboración y difusión.
@@ -506,8 +508,7 @@ A través de lineamientos técnicos claros para trabajar con materiales como PLA
 
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
-## Video demostración del proyecto
-
+## Demostración del Proyecto
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/sKVYTbrUuB0" 
         title="YouTube video player" 
@@ -515,6 +516,10 @@ A través de lineamientos técnicos claros para trabajar con materiales como PLA
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
 </iframe>
+
+## Manual de uso
+*Link de descarga*
+
 
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
