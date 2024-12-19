@@ -506,6 +506,16 @@ A través de lineamientos técnicos claros para trabajar con materiales como PLA
 
 ## Agradecimientos
 
+Quiero aprovechar este espacio para agradecer al cuerpo docente tanto de la UTEC Uruguay como del FabLab Barcelona, quienes hicieron posible este posgrado. Desde 2021 he deseado cursar esta especialización, y este año tuve la oportunidad de formar parte de ella.
+
+También quiero expresar mi gratitud a mis compañeros de curso en Montevideo: Lucía, Victoria, Edgardo, Pablo y Pilar. Siempre estuvieron dispuestos a colaborar, compartir dudas, organizar los viajes al laboratorio en Durazno y, en general, lograron que este curso fuera más ameno, familiar y dinámico.
+
+Un agradecimiento especial a Victoria, quien puso a disposición su taller en La Fábrica Makerspace. Sin su ayuda, no sé qué rumbo habría tomado este proyecto. Tanto ella como su compañero de trabajo Federico fueron increíblemente amables y abiertos, permitiéndome usar sus herramientas para experimentar. Espero retribuirles compartiendo y difundiendo este proyecto de reciclaje y su iniciativa dentro de la comunidad de impresión 3D.
+
+También quiero agradecer a Andrés Parravicini, quien me permitió utilizar sus instalaciones para realizar pruebas y experimentos de corte láser, lo que fue clave para avanzar en el desarrollo del material, explorando sus limitaciones y aplicaciones.
+
+Por último, quiero agradecerme y felicitarme a mí mismo por asumir el desafío y la responsabilidad que implica cursar un posgrado, un logro del que me siento profundamente orgulloso.
+
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
 ## Demostración del Proyecto
