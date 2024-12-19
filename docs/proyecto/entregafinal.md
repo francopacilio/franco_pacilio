@@ -506,6 +506,8 @@ EcoPlaca 3D ofrece una solución práctica y escalable al problema del desperdic
 
 A través de lineamientos técnicos claros para trabajar con materiales como PLA y PLA+, el proyecto facilita su implementación tanto en talleres propios como en espacios colaborativos, proporcionando una base sólida para que más personas puedan adoptar este enfoque y explorar sus posibilidades. Esto refuerza su valor como una herramienta de innovación accesible, que inspira a la comunidad a abordar el reciclaje desde una perspectiva práctica y creativa.
 
+## Agradecimientos
+
 <p style="font-size: 20px"; class="rainbow">¡Muchas gracias por su atención!</p>
 
 ## Demostración del Proyecto
@@ -517,9 +519,13 @@ A través de lineamientos técnicos claros para trabajar con materiales como PLA
         allowfullscreen>
 </iframe>
 
-## Manual de uso
-*Link de descarga*
+[*Link de descarga del Video Explicativo*](https://drive.google.com/file/d/1AeKs9uS25BgnhXbMsJdG7fr4FRHosFmu/view?usp=sharing)
 
+## Manual de uso
+[*Link de descarga de Instructivo Manual de Uso*](https://drive.google.com/file/d/1_xBavdE7O2z-NDsXcblWimGWjbGRBheF/view?usp=sharing)
+
+## Presentación final
+[*Link de descarga de la Presentación Final*](https://drive.google.com/file/d/1zycldEIU0dekXyt6pO6Em6s1YtXHjckY/view?usp=sharing)
 
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
